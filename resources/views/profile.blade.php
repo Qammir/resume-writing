@@ -25,18 +25,24 @@ tr:nth-child(even) {
     <!-- Top navbar -->
     <nav class="navbar navbar-top navbar-expand-md navbar-dark" id="navbar-main">
       <div class="container-fluid">
+
+            <!-- <img src="images/logo.png" alt=""> -->
+            <span style="color: white;">
+              TOPSLACKRESUME
+            </span>
+
         <!-- Brand -->
          <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <div class="d-flex ml-auto flex-column flex-lg-row align-items-center">
               <ul class="navbar-nav  ">
                 <li class="nav-item active">
-                  <a class="nav-link" href="index.html">Home</a>
+                  <a class="nav-link" href="{{ route('home.index') }}">Home</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="about.html"> About </a>
+                  <a class="nav-link" href="{{ route('about') }}"> About </a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="service.html"> Service </a>
+                  <a class="nav-link" href="{{ route('service') }}"> Service </a>
                 </li>
               </ul>
             </div>
@@ -195,6 +201,7 @@ tr:nth-child(even) {
                     <input type="hidden" name="_token" value="{{ csrf_token() }}" />
                     <input type="hidden" name="plan" value="basic" />
                     <input type="hidden" name="price" value="50" />
+                    <input type="hidden" name="details" value="Professional resume" />
                   <!--PRICE CONTENT START-->
                     <div class="generic_content clearfix">
                         
@@ -239,7 +246,7 @@ tr:nth-child(even) {
                         
                         <!--BUTTON START-->
                         <div class="">
-                          <button class="generic_price_btn clearfix" >Purchase</button>
+                          <button class="generic_price_btn clearfix btn btn-success " >Purchase</button>
                         </div>
                         <!--//BUTTON END-->
                         
@@ -249,7 +256,11 @@ tr:nth-child(even) {
                 </div>
                 
                 <div class="col-4">
-                
+                <form method="post" action="{{ route('order.perform') }}">
+                    <input type="hidden" name="_token" value="{{ csrf_token() }}" />
+                    <input type="hidden" name="plan" value="Standard" />
+                    <input type="hidden" name="price" value="70" />
+                    <input type="hidden" name="details" value="Professional resume + cover letter" />
                   <!--PRICE CONTENT START-->
                     <div class="generic_content active clearfix">
                         
@@ -295,17 +306,19 @@ tr:nth-child(even) {
                         <!--//FEATURE LIST END-->
                         
                         <!--BUTTON START-->
-                        <div class="generic_price_btn clearfix">
-                          <a class="" href="{{ route('login.perform') }}">Sign In</a>
-                        </div>
+                       <button class="generic_price_btn clearfix btn btn-success " >Purchase</button>
                         <!--//BUTTON END-->
                         
                     </div>
                     <!--//PRICE CONTENT END-->
-                        
+                 </form>       
                 </div>
                 <div class="col-4">
-                
+                <form method="post" action="{{ route('order.perform') }}">
+                    <input type="hidden" name="_token" value="{{ csrf_token() }}" />
+                    <input type="hidden" name="plan" value="Premium" />
+                    <input type="hidden" name="price" value="120" />
+                    <input type="hidden" name="details" value="Professional resume + cover letter + Linkedin" />
                   <!--PRICE CONTENT START-->
                     <div class="generic_content clearfix">
                         
@@ -353,9 +366,7 @@ tr:nth-child(even) {
                         <!--//FEATURE LIST END-->
                         
                         <!--BUTTON START-->
-                        <div class="generic_price_btn clearfix">
-                          <a class="" href="{{ route('login.perform') }}">Sign In</a>
-                        </div>
+                       <button class="generic_price_btn clearfix">Purchase</button>
                         <!--//BUTTON END-->
                         
                     </div>

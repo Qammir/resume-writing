@@ -46,6 +46,9 @@ Route::group(['namespace' => 'App\Http\Controllers'], function()
     });
 });
 Route::get('/admin/dashboard', [App\Http\Controllers\Admin\AdminController::class, 'index']);
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'Home'])->name('home');
+Route::get('/services', [App\Http\Controllers\HomeController::class, 'Service'])->name('service');
+Route::get('/about', [App\Http\Controllers\HomeController::class, 'About'])->name('about');
 Route::post('/order', [App\Http\Controllers\OrderController::class, 'Create'])->name('order.perform');
 
 Route::post('handle-payment', [App\Http\Controllers\PayPalPaymentController::class, 'handlePayment'])->name('make.payment');

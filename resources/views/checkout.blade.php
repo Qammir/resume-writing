@@ -160,7 +160,7 @@
                       <div class="d-flex flex-column">
 
                         <span>Details</span>
-                        <small>professional resume Only</small>
+                        <small>{{$user['details']}}</small>
                         
                       </div>
                       
