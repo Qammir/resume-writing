@@ -1,0 +1,33 @@
+<head>
+  <!-- Basic -->
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <!-- Mobile Metas -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+  <!-- Site Metas -->
+  <meta name="keywords" content="" />
+  <meta name="description" content="" />
+  <meta name="author" content="" />
+
+  <title>Resume Writing</title>
+
+  <!-- slider stylesheet -->
+  <link rel="stylesheet" type="text/css"
+    href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.1.3/assets/owl.carousel.min.css" />
+
+
+  <!-- font wesome stylesheet -->
+   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+  <!-- bootstrap core css -->
+  <link href="{{ asset('/front/css/footer.css') }}" rel="stylesheet"> 
+  <link href="{{ asset('/front/css/bootstrap.css') }}" rel="stylesheet"> 
+  <link href="{{ asset('/front/css/pricing.css') }}" rel="stylesheet"> 
+  <link href="{{ asset('/front/css/services.css') }}" rel="stylesheet">
+  <link href="{{ asset('/front/css/style.css') }}" rel="stylesheet">
+  <link href="{{ asset('/front/css/responsive.css') }}" rel="stylesheet">
+
+  <!-- fonts style -->
+  <link href="https://fonts.googleapis.com/css?family=Poppins:400,600,700&display=swap" rel="stylesheet">
+</head>
