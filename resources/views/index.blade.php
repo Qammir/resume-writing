@@ -65,7 +65,7 @@
         </div>
         <div class="col-md-6">
           <div class="img-box">
-            <img src="{{ asset('front/images/ats.JPG') }}" alt="">
+            <img src="{{ asset('front/images/ats.jpg') }}" alt="">
           </div>
         </div>
       </div>
@@ -78,7 +78,7 @@
       <div class="row">
         <div class="col-md-6">
           <div class="img-box">
-            <img src="{{ asset('front/images/writers.JPG') }}" alt="">
+            <img src="{{ asset('front/images/writers.jpg') }}" alt="">
           </div>
         </div>
         <div class="col-md-6">
