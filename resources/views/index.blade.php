@@ -1,10 +1,9 @@
 <!DOCTYPE html>
-<html>
-  @include("layouts/head"); 
+
+  @include("layouts/head")
 <body>
   <div class="hero_area">
-   
-     @include("layouts/header"); 
+     @include("layouts/header")
     <!-- slider section -->
     <section class=" slider_section position-relative">
       <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
@@ -40,12 +39,36 @@
     </section>
     <!-- end slider section -->
   </div>
+  
+   <!-- services -->
+  <div class="services reveal fade-right" style="background: white;">
+      <h1>TRUSTED BY PROFESSIONALS FROM</h1>
+      <div class="cen">
+        <div class="service">
+          <img src="{{ asset('front/images/linkedin.png') }}" width="30%" height="30%" alt="">
+        </div>
+        <div class="service">
+          <img src="{{ asset('front/images/yahoo.png') }}" width="30%" height="30%" alt="">
+        </div>
+        <div class="service">
+          <img src="{{ asset('front/images/instagram.png') }}" width="30%" height="30%" alt="">
+        </div>
+
+        <div class="service">
+          <img src="{{ asset('front/images/tesla.png') }}" width="30%" height="30%" alt="">
+        </div>
+        <div class="service">
+          <img src="{{ asset('front/images/upwork.png') }}" width="30%" height="30%" alt="">
+        </div>
+      </div>
+    </div>
+  <!-- end services -->
   <!-- ats section -->
   <section class="about_section layout_padding"  style="background:#f1f1f1">
     <div class="container">
       <div class="row">
         <div class="col-md-6">
-          <div class="detail-box">
+          <div class="detail-box reveal">
             <div class="heading_container">
               <h2>
                 ATS-compliant Resume Writing
@@ -53,19 +76,19 @@
             </div>
             <p>
               Nearly 99 percent of Fortune 500 companies utilize ATS software to optimize their recruiting processes today. However, what started as a recruiting solution for major employers has evolved into a tool used by businesses of all sizes<br>
-              <span>&#x25cf;</span>Develop a powerful accomplishment statement<br>
-              <span>&#x25cf;</span>Write knowledge rich executive summary<br>
-              <span>&#x25cf;</span>An optimal ATS friendly resume format<br>
-              <span>&#x25cf;</span>Polish resume to attain maximum ATS Score<br>
+              <h5>Develop a powerful accomplishment statement</h5><br>
+              <h5>Write knowledge rich executive summary</h5><br>
+              <h5>An optimal ATS friendly resume format</h5><br>
+              <h5>Polish resume to attain maximum ATS Score</h5><br>
             </p>
-            <a href="{{ route('register.perform') }}">
+            <a href="{{ route('register.perform') }}" >
               Get Started
             </a>
           </div>
         </div>
-        <div class="col-md-6">
+        <div class="col-md-6 reveal fade-right">
           <div class="img-box">
-            <img src="{{ asset('front/images/ats.jpg') }}" alt="">
+            <img src="{{ asset('front/images/ats.jpg') }}">
           </div>
         </div>
       </div>
@@ -75,7 +98,7 @@
    <!-- ats section -->
   <section class="about_section layout_padding">
     <div class="container">
-      <div class="row">
+      <div class="row reveal fade-left">
         <div class="col-md-6">
           <div class="img-box">
             <img src="{{ asset('front/images/writers.jpg') }}" alt="">
@@ -89,7 +112,7 @@
               </h2>
             </div>
             <p>
-              Our team consist of professional certified writer across United States and UK with extensive experience in Human Resource, Recruiting, Carrier Coaching and job Search strategy.
+              Our team consists of highly professional certified writer across United States and UK with extensive experience in Human resources, Recruiting, Carrier Coaching, and job Search strategy.
             </p>
             <a href="{{ route('register.perform') }}">
               Get Started
@@ -101,29 +124,32 @@
   </section>
   <!-- end ats section -->
   <!-- services -->
-  <div class="services">
+  <div class="services reveal fade-right">
       <h1>Our Services</h1>
       <div class="cen">
         <div class="service">
-          <i class="fas fa-anchor"></i>
-          <h2>Basic</h2>
-          <p>An ATS-optimized and keywords-rich resume that sets you apart.</p>
+          <img src="{{ asset('front/images/basic.png') }}" width="30%" height="30%" alt="">
+          
+          <h2><b>Basic</b></h2>
+          <h5>An ATS-optimized and keywords-rich resume that sets you apart.</h5>
         </div>
 
         <div class="service">
-          <i class="fab fa-android"></i>
-          <h2>Standard</h2>
-          <p>An ATS-optimized and keywords-rich resume and cover letter.</p>
+          <img src="{{ asset('front/images/standard.png') }}" width="30%" height="30%" alt="">
+          
+          <h2><b>Standard</b></h2>
+          <h5>An ATS-optimized and keywords-rich resume and cover letter.</h5>
         </div>
 
         <div class="service">
-          <i class="fab fa-angellist"></i>
-          <h2>Premium</h2>
-          <p>An ATS-optimized resume, cover letter, and keyword-rich LinkedIn profile.</p>
+          <img src="{{ asset('front/images/premium.png') }}" width="30%" height="30%" alt="">
+          <h2><b>Premium</b></h2>
+          <h5>An ATS-optimized resume, cover letter and keyword-rich LinkedIn.</h5>
         </div>
       </div>
     </div>
   <!-- end services -->
+ 
   <!--pricing -->
 <div id="generic_price_table">   
 <section>
@@ -191,7 +217,7 @@
                         
                         <!--BUTTON START-->
                         <div class="generic_price_btn clearfix">
-                          <a class="" href="{{ route('login.perform') }}">Sign In</a>
+                          <a class="" href="{{ route('login.perform') }}">Order Now</a>
                         </div>
                         <!--//BUTTON END-->
                         
@@ -248,7 +274,7 @@
                         
                         <!--BUTTON START-->
                         <div class="generic_price_btn clearfix">
-                          <a class="" href="{{ route('login.perform') }}">Sign In</a>
+                          <a class="" href="{{ route('login.perform') }}">Order Now</a>
                         </div>
                         <!--//BUTTON END-->
                         
@@ -256,7 +282,7 @@
                     <!--//PRICE CONTENT END-->
                         
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-4" style="margin-bottom: 30px;">
                 
                   <!--PRICE CONTENT START-->
                     <div class="generic_content clearfix">
@@ -306,7 +332,7 @@
                         
                         <!--BUTTON START-->
                         <div class="generic_price_btn clearfix">
-                          <a class="" href="{{ route('login.perform') }}">Sign In</a>
+                          <a class="" href="{{ route('login.perform') }}">Order Now</a>
                         </div>
                         <!--//BUTTON END-->
                         
@@ -322,132 +348,31 @@
 </div>
  <!--end pricing -->
 
-  <div class="body_bg layout_padding">
-
-    <!-- client section -->
-
-    <section class="client_section layout_padding-top">
-      <div class="d-flex justify-content-center">
-        <div class="heading_container">
-          <h2>
-            Customer Feedbacks
-          </h2>
-        </div>
-      </div>
-      <div class="container layout_padding2">
-        <div id="carouselExample2Indicators" class="carousel slide" data-ride="carousel">
-          <ol class="carousel-indicators">
-            <li data-target="#carouselExample2Indicators" data-slide-to="0" class="active"></li>
-            <li data-target="#carouselExample2Indicators" data-slide-to="1"></li>
-            <li data-target="#carouselExample2Indicators" data-slide-to="2"></li>
-          </ol>
-          <div class="carousel-inner">
-            <div class="carousel-item ">
-              <div class="client_container">
-                <div class="client-id">
-                  <div class="img-box">
-                    <img src="images/client.jpg" alt="">
-                  </div>
-                  <div class="client_name">
-                    <div>
-                      <h3>
-                        Johndue
-                      </h3>
-                      <p>
-                        Farm & CO
-                      </p>
-                    </div>
-                  </div>
-                </div>
-                <div class="client_detail">
-                  <div class="client_text">
-                    <blockquote>
-                      <p>
-                        ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                        dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-                        aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit
-                      </p>
-                    </blockquote>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="carousel-item active">
-              <div class="client_container">
-                <div class="client-id">
-                  <div class="img-box">
-                    <img src="images/client.jpg" alt="">
-                  </div>
-                  <div class="client_name">
-                    <div>
-                      <h3>
-                        Johndue
-                      </h3>
-                      <p>
-                        Farm & CO
-                      </p>
-                    </div>
-                  </div>
-                </div>
-                <div class="client_detail">
-                  <div class="client_text">
-                    <blockquote>
-                      <p>
-                        ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                        dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-                        aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit
-                      </p>
-                    </blockquote>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="carousel-item ">
-              <div class="client_container">
-                <div class="client-id">
-                  <div class="img-box">
-                    <img src="images/client.jpg" alt="">
-                  </div>
-                  <div class="client_name">
-                    <div>
-                      <h3>
-                        Johndue
-                      </h3>
-                      <p>
-                        Farm & CO
-                      </p>
-                    </div>
-                  </div>
-                </div>
-                <div class="client_detail">
-                  <div class="client_text">
-                    <blockquote>
-                      <p>
-                        ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                        dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-                        aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit
-                      </p>
-                    </blockquote>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-
-      </div>
-    </section>
-
-
-    <!-- end client section -->
-
-  </div>
   <!-- footer section -->
-  @include("layouts/footer"); 
+  @include("layouts/footer")
   
   <!-- footer section -->
     <link href="{{ asset('/front/js/jquery-3.4.1.min.js') }}" rel="stylesheet">  
     <link href="{{ asset('/front/js/bootstrap.js') }}" rel="stylesheet">
+    <script type="text/javascript">
+      function reveal() {
+  var reveals = document.querySelectorAll(".reveal");
+
+  for (var i = 0; i < reveals.length; i++) {
+    var windowHeight = window.innerHeight;
+    var elementTop = reveals[i].getBoundingClientRect().top;
+    var elementVisible = 20;
+
+    if (elementTop < windowHeight - elementVisible) {
+      reveals[i].classList.add("active");
+    } else {
+      reveals[i].classList.remove("active");
+    }
+  }
+}
+
+window.addEventListener("scroll", reveal);
+    </script>
 </body>
 
 </html>

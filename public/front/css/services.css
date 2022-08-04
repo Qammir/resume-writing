@@ -23,7 +23,7 @@ body{
 }
 .service{
   display: inline-block;
-  width: calc(100% / 3);
+  width: calc(100% / 4);
   margin: 0 -2px;
   padding: 20px;
   box-sizing: border-box;
