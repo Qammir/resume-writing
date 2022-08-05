@@ -88,7 +88,7 @@
         </div>
         <div class="col-md-6 reveal fade-right">
           <div class="img-box">
-            <img src="{{ asset('front/images/ats.jpg') }}">
+            <img src="{{ asset('front/images/ats-resume.JPEG') }}">
           </div>
         </div>
       </div>
@@ -101,7 +101,7 @@
       <div class="row reveal fade-left">
         <div class="col-md-6">
           <div class="img-box">
-            <img src="{{ asset('front/images/writers.jpg') }}" alt="">
+            <img src="{{ asset('front/images/resume-writers.JPEG') }}" alt="">
           </div>
         </div>
         <div class="col-md-6">
