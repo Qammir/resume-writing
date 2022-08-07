@@ -1,12 +1,13 @@
  <!-- header section strats -->
- 
+ <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" />
  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
     <header class="header_section" style="background:black;">
       <div class="container">
         <nav class="navbar navbar-expand-lg custom_nav-container pt-3">
           <a class="navbar-brand mr-5" href="index.html">
-                        
+            <!-- <img src="images/logo.png" alt=""> -->
+            
               <span>TOP</span><span style="color: #e93f1a;">SLACK</span><span>RESUME</span>
             
           </a>
