@@ -21,12 +21,13 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 
   <!-- bootstrap core css -->
-  <link href="{{ asset('/front/css/footer.css') }}" rel="stylesheet"> 
+ 
   <link href="{{ asset('/front/css/bootstrap.css') }}" rel="stylesheet"> 
+  <link href="{{ asset('/front/css/responsive.css') }}" rel="stylesheet">
+  <link href="{{ asset('/front/css/footer.css') }}" rel="stylesheet"> 
   <link href="{{ asset('/front/css/pricing.css') }}" rel="stylesheet"> 
   <link href="{{ asset('/front/css/services.css') }}" rel="stylesheet">
   <link href="{{ asset('/front/css/style.css') }}" rel="stylesheet">
-  <link href="{{ asset('/front/css/responsive.css') }}" rel="stylesheet">
 
   <!-- fonts style -->
   <link href="https://fonts.googleapis.com/css?family=Poppins:400,600,700&display=swap" rel="stylesheet">
@@ -61,6 +62,9 @@
     opacity: 1;
   }
 }
+.topnav-right {
+  float: right;
+}
 .reveal{
   position: relative;
   transform: translateY(50px);
@@ -78,6 +82,11 @@
 }
 .active.fade-right {
   animation: fade-right 1s ease-in;
+}
+@media (min-width: 768px){
+.navbar-collapse.collapse {
+  margin-left: 275px;
+}
 }
   </style>
 </head>

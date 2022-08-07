@@ -19,11 +19,11 @@
                           ATS-compliant resume writing service
                         </span>
                       </h1>
-                      <p>
+                      <h4>
                         An effective ATS-compliant resume <br>
                         A highly effective modern resume that tells your career story<br>
                         We’ll craft your resume that gets more job interviews, guaranteed!<br>
-                      </p>
+                      </h4>
                       <div class="btn-box">
                         <a href="{{ route('register.perform') }}" class="btn-1">
                           Get started
@@ -45,20 +45,20 @@
       <h1>TRUSTED BY PROFESSIONALS FROM</h1>
       <div class="cen">
         <div class="service">
-          <img src="{{ asset('front/images/linkedin.png') }}" width="30%" height="30%" alt="">
-        </div>
-        <div class="service">
           <img src="{{ asset('front/images/yahoo.png') }}" width="30%" height="30%" alt="">
         </div>
         <div class="service">
-          <img src="{{ asset('front/images/instagram.png') }}" width="30%" height="30%" alt="">
+          <img src="{{ asset('front/images/microsoft.png') }}" width="30%" height="30%" alt="">
+        </div>
+        <div class="service">
+          <img src="{{ asset('front/images/samsung.png') }}" width="50%" height="30%" alt="">
         </div>
 
         <div class="service">
           <img src="{{ asset('front/images/tesla.png') }}" width="30%" height="30%" alt="">
         </div>
         <div class="service">
-          <img src="{{ asset('front/images/upwork.png') }}" width="30%" height="30%" alt="">
+          <img src="{{ asset('front/images/linkedin.png') }}" width="30%" height="30%" alt="">
         </div>
       </div>
     </div>
@@ -70,17 +70,17 @@
         <div class="col-md-6">
           <div class="detail-box reveal">
             <div class="heading_container">
-              <h2>
-                ATS-compliant Resume Writing
-              </h2>
+              <h3>
+                <b>ATS-compliant Resume Writing</b>
+              </h3>
             </div>
-            <p>
+            <h4>
               Nearly 99 percent of Fortune 500 companies utilize ATS software to optimize their recruiting processes today. However, what started as a recruiting solution for major employers has evolved into a tool used by businesses of all sizes<br>
-              <h5>Develop a powerful accomplishment statement</h5><br>
-              <h5>Write knowledge rich executive summary</h5><br>
-              <h5>An optimal ATS friendly resume format</h5><br>
-              <h5>Polish resume to attain maximum ATS Score</h5><br>
-            </p>
+            </h4>
+              <h5 style="margin-bottom: -15px;">&#x25cf;<b>Develop a powerful accomplishment statement</b></h5><br>
+              <h5 style="margin-bottom: -15px;">&#x25cf;<b>Write knowledge rich executive summary</b></h5><br>
+              <h5 style="margin-bottom: -15px;">&#x25cf;<b>An optimal ATS friendly resume format</b></h5><br>
+              <h5>&#x25cf;<b>Polish resume to attain maximum ATS Score</b></h5><br>
             <a href="{{ route('register.perform') }}" >
               Get Started
             </a>
@@ -107,13 +107,13 @@
         <div class="col-md-6">
           <div class="detail-box">
             <div class="heading_container">
-              <h2>
-                Our Writers
-              </h2>
+              <h3>
+                <b>Our Writers</b>
+              </h3>
             </div>
-            <p>
+            <h4>
               Our team consists of highly professional certified writer across United States and UK with extensive experience in Human resources, Recruiting, Carrier Coaching, and job Search strategy.
-            </p>
+            </h4>
             <a href="{{ route('register.perform') }}">
               Get Started
             </a>
