@@ -20,13 +20,13 @@
               <ul class="navbar-nav  ">
 
                 <li class="nav-item active">
-                  <a class="nav-link" href="{{ route('home.index') }}">Home <span class="sr-only">(current)</span></a>
+                  <a class="nav-link" href="{{ route('home.index') }}"><b>Home</b> <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="{{ route('about') }}"> About </a>
+                  <a class="nav-link" href="{{ route('about') }}"> <b>About</b> </a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="{{ route('service') }}"> Service </a>
+                  <a class="nav-link" href="{{ route('service') }}"><b> Service</b> </a>
                 </li>
                 @auth
                   {{auth()->user()->name}}

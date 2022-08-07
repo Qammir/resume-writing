@@ -19,11 +19,11 @@
                           ATS-compliant resume writing service
                         </span>
                       </h1>
-                      <h4>
+                      <h3>
                         An effective ATS-compliant resume <br>
                         A highly effective modern resume that tells your career story<br>
                         We’ll craft your resume that gets more job interviews, guaranteed!<br>
-                      </h4>
+                      </h3>
                       <div class="btn-box">
                         <a href="{{ route('register.perform') }}" class="btn-1">
                           Get started
@@ -74,13 +74,13 @@
                 <b>ATS-compliant Resume Writing</b>
               </h3>
             </div>
-            <h4>
+            <h3>
               Nearly 99 percent of Fortune 500 companies utilize ATS software to optimize their recruiting processes today. However, what started as a recruiting solution for major employers has evolved into a tool used by businesses of all sizes<br>
-            </h4>
-              <h5 style="margin-bottom: -15px;">&#x25cf;<b>Develop a powerful accomplishment statement</b></h5><br>
-              <h5 style="margin-bottom: -15px;">&#x25cf;<b>Write knowledge rich executive summary</b></h5><br>
-              <h5 style="margin-bottom: -15px;">&#x25cf;<b>An optimal ATS friendly resume format</b></h5><br>
-              <h5>&#x25cf;<b>Polish resume to attain maximum ATS Score</b></h5><br>
+            </h3>
+              <h4 style="margin-bottom: -15px;">&#x25cf;<b>Develop a powerful accomplishment statement</b></h4><br>
+              <h4 style="margin-bottom: -15px;">&#x25cf;<b>Write knowledge rich executive summary</b></h4><br>
+              <h4 style="margin-bottom: -15px;">&#x25cf;<b>An optimal ATS friendly resume format</b></h4><br>
+              <h4>&#x25cf;<b>Polish resume to attain maximum ATS Score</b></h4><br>
             <a href="{{ route('register.perform') }}" >
               Get Started
             </a>
@@ -111,9 +111,9 @@
                 <b>Our Writers</b>
               </h3>
             </div>
-            <h4>
+            <h3>
               Our team consists of highly professional certified writer across United States and UK with extensive experience in Human resources, Recruiting, Carrier Coaching, and job Search strategy.
-            </h4>
+            </h3>
             <a href="{{ route('register.perform') }}">
               Get Started
             </a>
