@@ -1,0 +1,2552 @@
+[23-Jul-2022 03:51:50 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/app.php on line 18
+[23-Jul-2022 03:51:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/app.php on line 18
+[23-Jul-2022 03:51:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/broadcasting.php on line 18
+[23-Jul-2022 03:51:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/broadcasting.php on line 18
+[23-Jul-2022 03:51:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/cache.php on line 18
+[23-Jul-2022 03:51:54 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/cache.php on line 18
+[23-Jul-2022 03:51:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/database.php on line 18
+[23-Jul-2022 03:51:56 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/database.php on line 18
+[23-Jul-2022 03:51:56 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/filesystems.php on line 16
+[23-Jul-2022 03:51:57 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/filesystems.php on line 16
+[23-Jul-2022 03:51:57 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/hashing.php on line 32
+[23-Jul-2022 03:51:59 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/hashing.php on line 32
+[23-Jul-2022 03:51:59 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/logging.php on line 20
+[23-Jul-2022 03:52:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/logging.php on line 20
+[23-Jul-2022 03:52:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/mail.php on line 16
+[23-Jul-2022 03:52:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/mail.php on line 16
+[23-Jul-2022 03:52:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/paypal.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/paypal.php on line 8
+[23-Jul-2022 03:52:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/paypal.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/paypal.php on line 8
+[23-Jul-2022 03:52:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/queue.php on line 16
+[23-Jul-2022 03:52:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/queue.php on line 16
+[23-Jul-2022 03:52:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/sanctum.php on line 18
+[23-Jul-2022 03:52:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/sanctum.php on line 18
+[23-Jul-2022 03:52:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/services.php on line 18
+[23-Jul-2022 03:52:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/services.php on line 18
+[23-Jul-2022 03:52:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/session.php on line 21
+[23-Jul-2022 03:52:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/session.php on line 21
+[23-Jul-2022 03:52:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/zeehulxf/topslackresume/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/view.php on line 17
+[23-Jul-2022 03:52:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/zeehulxf/topslackresume/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/view.php on line 17
+[23-Jul-2022 05:45:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/app.php on line 18
+[23-Jul-2022 05:45:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/app.php on line 18
+[23-Jul-2022 05:45:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/broadcasting.php on line 18
+[23-Jul-2022 05:45:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/broadcasting.php on line 18
+[23-Jul-2022 05:45:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/cache.php on line 18
+[23-Jul-2022 05:45:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/cache.php on line 18
+[23-Jul-2022 05:45:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/database.php on line 18
+[23-Jul-2022 05:45:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/database.php on line 18
+[23-Jul-2022 05:45:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/filesystems.php on line 16
+[23-Jul-2022 05:45:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/filesystems.php on line 16
+[23-Jul-2022 05:45:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/hashing.php on line 32
+[23-Jul-2022 05:45:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/hashing.php on line 32
+[23-Jul-2022 05:45:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/logging.php on line 20
+[23-Jul-2022 05:45:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/logging.php on line 20
+[23-Jul-2022 05:45:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/mail.php on line 16
+[23-Jul-2022 05:45:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/mail.php on line 16
+[23-Jul-2022 05:45:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/paypal.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/paypal.php on line 8
+[23-Jul-2022 05:45:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/paypal.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/paypal.php on line 8
+[23-Jul-2022 05:45:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/queue.php on line 16
+[23-Jul-2022 05:45:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/queue.php on line 16
+[23-Jul-2022 05:45:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/sanctum.php on line 18
+[23-Jul-2022 05:45:45 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/sanctum.php on line 18
+[23-Jul-2022 05:45:45 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/services.php on line 18
+[23-Jul-2022 05:45:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/services.php on line 18
+[23-Jul-2022 05:45:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/session.php on line 21
+[23-Jul-2022 05:45:48 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/session.php on line 21
+[23-Jul-2022 05:45:48 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/zeehulxf/topslackresume/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/view.php on line 17
+[23-Jul-2022 05:45:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/zeehulxf/topslackresume/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/view.php on line 17
+[23-Jul-2022 07:08:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/app.php on line 18
+[23-Jul-2022 07:08:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/app.php on line 18
+[23-Jul-2022 07:08:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/broadcasting.php on line 18
+[23-Jul-2022 07:08:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/broadcasting.php on line 18
+[23-Jul-2022 07:08:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/cache.php on line 18
+[23-Jul-2022 07:08:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/cache.php on line 18
+[23-Jul-2022 07:08:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/database.php on line 18
+[23-Jul-2022 07:08:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/database.php on line 18
+[23-Jul-2022 07:08:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/filesystems.php on line 16
+[23-Jul-2022 07:08:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/filesystems.php on line 16
+[23-Jul-2022 07:08:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/hashing.php on line 32
+[23-Jul-2022 07:08:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/hashing.php on line 32
+[23-Jul-2022 07:08:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/logging.php on line 20
+[23-Jul-2022 07:08:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/logging.php on line 20
+[23-Jul-2022 07:08:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/mail.php on line 16
+[23-Jul-2022 07:08:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/mail.php on line 16
+[23-Jul-2022 07:08:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/paypal.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/paypal.php on line 8
+[23-Jul-2022 07:08:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/paypal.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/paypal.php on line 8
+[23-Jul-2022 07:08:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/queue.php on line 16
+[23-Jul-2022 07:08:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/queue.php on line 16
+[23-Jul-2022 07:08:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/sanctum.php on line 18
+[23-Jul-2022 07:08:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/sanctum.php on line 18
+[23-Jul-2022 07:08:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/services.php on line 18
+[23-Jul-2022 07:08:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/services.php on line 18
+[23-Jul-2022 07:08:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/session.php on line 21
+[23-Jul-2022 07:08:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/session.php on line 21
+[23-Jul-2022 07:08:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/zeehulxf/topslackresume/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/view.php on line 17
+[23-Jul-2022 07:08:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/zeehulxf/topslackresume/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/view.php on line 17
+[23-Jul-2022 12:00:45 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/app.php on line 18
+[23-Jul-2022 12:00:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/app.php on line 18
+[23-Jul-2022 12:00:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/broadcasting.php on line 18
+[23-Jul-2022 12:00:48 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/broadcasting.php on line 18
+[23-Jul-2022 12:00:48 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/cache.php on line 18
+[23-Jul-2022 12:00:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/cache.php on line 18
+[23-Jul-2022 12:00:50 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/database.php on line 18
+[23-Jul-2022 12:00:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/database.php on line 18
+[23-Jul-2022 12:00:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/filesystems.php on line 16
+[23-Jul-2022 12:00:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/filesystems.php on line 16
+[23-Jul-2022 12:00:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/hashing.php on line 32
+[23-Jul-2022 12:00:54 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/hashing.php on line 32
+[23-Jul-2022 12:00:54 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/logging.php on line 20
+[23-Jul-2022 12:00:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/logging.php on line 20
+[23-Jul-2022 12:00:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/mail.php on line 16
+[23-Jul-2022 12:00:56 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/mail.php on line 16
+[23-Jul-2022 12:00:57 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/paypal.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/paypal.php on line 8
+[23-Jul-2022 12:00:58 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/paypal.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/paypal.php on line 8
+[23-Jul-2022 12:00:58 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/queue.php on line 16
+[23-Jul-2022 12:00:59 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/queue.php on line 16
+[23-Jul-2022 12:00:59 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/sanctum.php on line 18
+[23-Jul-2022 12:01:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/sanctum.php on line 18
+[23-Jul-2022 12:01:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/services.php on line 18
+[23-Jul-2022 12:01:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/services.php on line 18
+[23-Jul-2022 12:01:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/session.php on line 21
+[23-Jul-2022 12:01:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/session.php on line 21
+[23-Jul-2022 12:01:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/zeehulxf/topslackresume/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/view.php on line 17
+[23-Jul-2022 12:01:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/zeehulxf/topslackresume/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/view.php on line 17
+[23-Jul-2022 13:35:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/app.php on line 18
+[23-Jul-2022 13:35:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/app.php on line 18
+[23-Jul-2022 13:35:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/broadcasting.php on line 18
+[23-Jul-2022 13:35:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/broadcasting.php on line 18
+[23-Jul-2022 13:35:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/cache.php on line 18
+[23-Jul-2022 13:35:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/cache.php on line 18
+[23-Jul-2022 13:35:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/database.php on line 18
+[23-Jul-2022 13:35:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/database.php on line 18
+[23-Jul-2022 13:35:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/filesystems.php on line 16
+[23-Jul-2022 13:35:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/filesystems.php on line 16
+[23-Jul-2022 13:35:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/hashing.php on line 32
+[23-Jul-2022 13:35:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/hashing.php on line 32
+[23-Jul-2022 13:35:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/logging.php on line 20
+[23-Jul-2022 13:35:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/logging.php on line 20
+[23-Jul-2022 13:35:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/mail.php on line 16
+[23-Jul-2022 13:35:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/mail.php on line 16
+[23-Jul-2022 13:35:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/paypal.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/paypal.php on line 8
+[23-Jul-2022 13:35:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/paypal.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/paypal.php on line 8
+[23-Jul-2022 13:35:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/queue.php on line 16
+[23-Jul-2022 13:35:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/queue.php on line 16
+[23-Jul-2022 13:35:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/sanctum.php on line 18
+[23-Jul-2022 13:35:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/sanctum.php on line 18
+[23-Jul-2022 13:35:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/services.php on line 18
+[23-Jul-2022 13:35:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/services.php on line 18
+[23-Jul-2022 13:35:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/session.php on line 21
+[23-Jul-2022 13:35:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/session.php on line 21
+[23-Jul-2022 13:35:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/zeehulxf/topslackresume/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/view.php on line 17
+[23-Jul-2022 13:35:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/zeehulxf/topslackresume/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/view.php on line 17
+[23-Jul-2022 15:50:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/app.php on line 18
+[23-Jul-2022 15:50:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/app.php on line 18
+[23-Jul-2022 15:50:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/broadcasting.php on line 18
+[23-Jul-2022 15:50:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/broadcasting.php on line 18
+[23-Jul-2022 15:50:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/cache.php on line 18
+[23-Jul-2022 15:50:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/cache.php on line 18
+[23-Jul-2022 15:50:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/database.php on line 18
+[23-Jul-2022 15:50:50 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/database.php on line 18
+[23-Jul-2022 15:50:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/filesystems.php on line 16
+[23-Jul-2022 15:50:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/filesystems.php on line 16
+[23-Jul-2022 15:50:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/hashing.php on line 32
+[23-Jul-2022 15:50:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/hashing.php on line 32
+[23-Jul-2022 15:50:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/logging.php on line 20
+[23-Jul-2022 15:50:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/logging.php on line 20
+[23-Jul-2022 15:50:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/mail.php on line 16
+[23-Jul-2022 15:50:56 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/mail.php on line 16
+[23-Jul-2022 15:50:56 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/paypal.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/paypal.php on line 8
+[23-Jul-2022 15:50:57 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/paypal.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/paypal.php on line 8
+[23-Jul-2022 15:50:57 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/queue.php on line 16
+[23-Jul-2022 15:50:59 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/queue.php on line 16
+[23-Jul-2022 15:50:59 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/sanctum.php on line 18
+[23-Jul-2022 15:51:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/sanctum.php on line 18
+[23-Jul-2022 15:51:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/services.php on line 18
+[23-Jul-2022 15:51:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/services.php on line 18
+[23-Jul-2022 15:51:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/session.php on line 21
+[23-Jul-2022 15:51:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/session.php on line 21
+[23-Jul-2022 15:51:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/zeehulxf/topslackresume/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/view.php on line 17
+[23-Jul-2022 15:51:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/zeehulxf/topslackresume/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/view.php on line 17
+[24-Jul-2022 01:29:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/zeehulxf/topslackresume/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/view.php on line 17
+[24-Jul-2022 01:29:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/zeehulxf/topslackresume/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/view.php on line 17
+[24-Jul-2022 01:29:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/zeehulxf/topslackresume/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/view.php on line 17
+[24-Jul-2022 01:29:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/zeehulxf/topslackresume/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/view.php on line 17
+[24-Jul-2022 01:29:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/sanctum.php on line 18
+[24-Jul-2022 01:29:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/sanctum.php on line 18
+[24-Jul-2022 01:29:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/sanctum.php on line 18
+[24-Jul-2022 01:29:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/paypal.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/paypal.php on line 8
+[24-Jul-2022 01:29:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/paypal.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/paypal.php on line 8
+[24-Jul-2022 01:29:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/filesystems.php on line 16
+[24-Jul-2022 01:29:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/sanctum.php on line 18
+[24-Jul-2022 01:29:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/filesystems.php on line 16
+[24-Jul-2022 01:29:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/zeehulxf/topslackresume/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/view.php on line 17
+[24-Jul-2022 01:29:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/filesystems.php on line 16
+[24-Jul-2022 01:29:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/hashing.php on line 32
+[24-Jul-2022 01:29:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/hashing.php on line 32
+[24-Jul-2022 01:29:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/broadcasting.php on line 18
+[24-Jul-2022 01:29:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/broadcasting.php on line 18
+[24-Jul-2022 01:29:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/session.php on line 21
+[24-Jul-2022 01:29:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/session.php on line 21
+[24-Jul-2022 01:29:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/session.php on line 21
+[24-Jul-2022 01:29:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/app.php on line 18
+[24-Jul-2022 01:29:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/sanctum.php on line 18
+[24-Jul-2022 01:29:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/mail.php on line 16
+[24-Jul-2022 01:29:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/mail.php on line 16
+[24-Jul-2022 01:29:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/mail.php on line 16
+[24-Jul-2022 01:29:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/queue.php on line 16
+[24-Jul-2022 01:29:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/queue.php on line 16
+[24-Jul-2022 01:29:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/app.php on line 18
+[24-Jul-2022 01:29:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/mail.php on line 16
+[24-Jul-2022 01:29:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/session.php on line 21
+[24-Jul-2022 01:29:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/hashing.php on line 32
+[24-Jul-2022 01:29:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/app.php on line 18
+[24-Jul-2022 01:29:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/cache.php on line 18
+[24-Jul-2022 01:29:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/cache.php on line 18
+[24-Jul-2022 01:29:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/cache.php on line 18
+[24-Jul-2022 01:29:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/queue.php on line 16
+[24-Jul-2022 01:29:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/cache.php on line 18
+[24-Jul-2022 01:29:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/database.php on line 18
+[24-Jul-2022 01:29:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/paypal.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/paypal.php on line 8
+[24-Jul-2022 01:29:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/database.php on line 18
+[24-Jul-2022 01:29:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/logging.php on line 20
+[24-Jul-2022 01:29:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/logging.php on line 20
+[24-Jul-2022 01:29:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/session.php on line 21
+[24-Jul-2022 01:29:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/logging.php on line 20
+[24-Jul-2022 01:29:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/services.php on line 18
+[24-Jul-2022 01:29:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/services.php on line 18
+[24-Jul-2022 01:29:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/services.php on line 18
+[24-Jul-2022 01:29:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/filesystems.php on line 16
+[24-Jul-2022 01:29:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/filesystems.php on line 16
+[24-Jul-2022 01:29:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/sanctum.php on line 18
+[24-Jul-2022 01:29:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/cache.php on line 18
+[24-Jul-2022 01:29:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/zeehulxf/topslackresume/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/view.php on line 17
+[24-Jul-2022 01:29:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/zeehulxf/topslackresume/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/view.php on line 17
+[24-Jul-2022 01:29:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/broadcasting.php on line 18
+[24-Jul-2022 01:29:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/services.php on line 18
+[24-Jul-2022 01:29:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/app.php on line 18
+[24-Jul-2022 01:29:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/logging.php on line 20
+[24-Jul-2022 01:29:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/database.php on line 18
+[24-Jul-2022 01:29:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/mail.php on line 16
+[24-Jul-2022 01:29:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/filesystems.php on line 16
+[24-Jul-2022 01:29:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/app.php on line 18
+[24-Jul-2022 01:29:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/queue.php on line 16
+[24-Jul-2022 01:29:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/logging.php on line 20
+[24-Jul-2022 01:29:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/paypal.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/paypal.php on line 8
+[24-Jul-2022 01:29:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/session.php on line 21
+[24-Jul-2022 01:29:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/cache.php on line 18
+[24-Jul-2022 01:29:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/cache.php on line 18
+[24-Jul-2022 01:29:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/filesystems.php on line 16
+[24-Jul-2022 01:29:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/mail.php on line 16
+[24-Jul-2022 01:29:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/logging.php on line 20
+[24-Jul-2022 01:29:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/services.php on line 18
+[24-Jul-2022 01:29:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/mail.php on line 16
+[24-Jul-2022 01:29:14 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/paypal.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/paypal.php on line 8
+[24-Jul-2022 01:29:14 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/app.php on line 18
+[24-Jul-2022 01:29:14 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/session.php on line 21
+[24-Jul-2022 01:29:15 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/paypal.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/paypal.php on line 8
+[24-Jul-2022 01:29:15 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/sanctum.php on line 18
+[24-Jul-2022 01:29:15 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/paypal.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/paypal.php on line 8
+[24-Jul-2022 01:29:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/app.php on line 18
+[24-Jul-2022 01:29:17 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/logging.php on line 20
+[24-Jul-2022 01:29:17 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/broadcasting.php on line 18
+[24-Jul-2022 01:29:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/queue.php on line 16
+[24-Jul-2022 01:29:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/hashing.php on line 32
+[24-Jul-2022 01:29:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/queue.php on line 16
+[24-Jul-2022 01:29:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/database.php on line 18
+[24-Jul-2022 01:29:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/services.php on line 18
+[24-Jul-2022 01:29:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/services.php on line 18
+[24-Jul-2022 01:29:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/hashing.php on line 32
+[24-Jul-2022 01:29:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/database.php on line 18
+[24-Jul-2022 01:29:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/queue.php on line 16
+[24-Jul-2022 01:29:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/hashing.php on line 32
+[24-Jul-2022 01:29:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/database.php on line 18
+[24-Jul-2022 01:29:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/database.php on line 18
+[24-Jul-2022 01:29:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/hashing.php on line 32
+[24-Jul-2022 01:30:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/broadcasting.php on line 18
+[24-Jul-2022 05:29:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/filesystems.php on line 16
+[24-Jul-2022 05:29:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/broadcasting.php on line 18
+[24-Jul-2022 05:29:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/filesystems.php on line 16
+[24-Jul-2022 05:29:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/cache.php on line 18
+[24-Jul-2022 05:29:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/filesystems.php on line 16
+[24-Jul-2022 05:29:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/cache.php on line 18
+[24-Jul-2022 05:29:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/broadcasting.php on line 18
+[24-Jul-2022 05:29:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/broadcasting.php on line 18
+[24-Jul-2022 05:29:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/broadcasting.php on line 18
+[24-Jul-2022 05:29:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/broadcasting.php on line 18
+[24-Jul-2022 05:29:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/sanctum.php on line 18
+[24-Jul-2022 05:29:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/sanctum.php on line 18
+[24-Jul-2022 05:29:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/sanctum.php on line 18
+[24-Jul-2022 05:29:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/sanctum.php on line 18
+[24-Jul-2022 05:29:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/cache.php on line 18
+[24-Jul-2022 05:29:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/logging.php on line 20
+[24-Jul-2022 05:29:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/services.php on line 18
+[24-Jul-2022 05:29:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/services.php on line 18
+[24-Jul-2022 05:29:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/services.php on line 18
+[24-Jul-2022 05:29:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/cache.php on line 18
+[24-Jul-2022 05:29:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/database.php on line 18
+[24-Jul-2022 05:29:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/logging.php on line 20
+[24-Jul-2022 05:29:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/logging.php on line 20
+[24-Jul-2022 05:29:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/database.php on line 18
+[24-Jul-2022 05:29:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/logging.php on line 20
+[24-Jul-2022 05:29:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/zeehulxf/topslackresume/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/view.php on line 17
+[24-Jul-2022 05:29:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/session.php on line 21
+[24-Jul-2022 05:29:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/app.php on line 18
+[24-Jul-2022 05:29:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/zeehulxf/topslackresume/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/view.php on line 17
+[24-Jul-2022 05:29:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/zeehulxf/topslackresume/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/view.php on line 17
+[24-Jul-2022 05:29:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/app.php on line 18
+[24-Jul-2022 05:29:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/session.php on line 21
+[24-Jul-2022 05:29:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/database.php on line 18
+[24-Jul-2022 05:29:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/database.php on line 18
+[24-Jul-2022 05:29:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/app.php on line 18
+[24-Jul-2022 05:29:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/session.php on line 21
+[24-Jul-2022 05:29:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/app.php on line 18
+[24-Jul-2022 05:29:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/app.php on line 18
+[24-Jul-2022 05:29:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/sanctum.php on line 18
+[24-Jul-2022 05:29:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/zeehulxf/topslackresume/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/view.php on line 17
+[24-Jul-2022 05:29:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/hashing.php on line 32
+[24-Jul-2022 05:29:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/services.php on line 18
+[24-Jul-2022 05:29:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/zeehulxf/topslackresume/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/view.php on line 17
+[24-Jul-2022 05:29:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/hashing.php on line 32
+[24-Jul-2022 05:29:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/hashing.php on line 32
+[24-Jul-2022 05:29:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/logging.php on line 20
+[24-Jul-2022 05:29:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/session.php on line 21
+[24-Jul-2022 05:29:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/hashing.php on line 32
+[24-Jul-2022 05:29:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/app.php on line 18
+[24-Jul-2022 05:29:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/queue.php on line 16
+[24-Jul-2022 05:29:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/queue.php on line 16
+[24-Jul-2022 05:29:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/app.php on line 18
+[24-Jul-2022 05:29:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/mail.php on line 16
+[24-Jul-2022 05:29:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/session.php on line 21
+[24-Jul-2022 05:29:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/mail.php on line 16
+[24-Jul-2022 05:29:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/sanctum.php on line 18
+[24-Jul-2022 05:29:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/sanctum.php on line 18
+[24-Jul-2022 05:29:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/logging.php on line 20
+[24-Jul-2022 05:29:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/logging.php on line 20
+[24-Jul-2022 05:29:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/mail.php on line 16
+[24-Jul-2022 05:29:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/session.php on line 21
+[24-Jul-2022 05:29:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/broadcasting.php on line 18
+[24-Jul-2022 05:29:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/broadcasting.php on line 18
+[24-Jul-2022 05:29:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/zeehulxf/topslackresume/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/view.php on line 17
+[24-Jul-2022 05:29:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/session.php on line 21
+[24-Jul-2022 05:29:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/zeehulxf/topslackresume/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/view.php on line 17
+[24-Jul-2022 05:29:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/paypal.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/paypal.php on line 8
+[24-Jul-2022 05:29:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/paypal.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/paypal.php on line 8
+[24-Jul-2022 05:29:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/paypal.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/paypal.php on line 8
+[24-Jul-2022 05:29:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/paypal.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/paypal.php on line 8
+[24-Jul-2022 05:29:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/database.php on line 18
+[24-Jul-2022 05:29:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/queue.php on line 16
+[24-Jul-2022 05:29:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/paypal.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/paypal.php on line 8
+[24-Jul-2022 05:29:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/database.php on line 18
+[24-Jul-2022 05:29:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/paypal.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/paypal.php on line 8
+[24-Jul-2022 05:29:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/paypal.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/paypal.php on line 8
+[24-Jul-2022 05:29:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/filesystems.php on line 16
+[24-Jul-2022 05:29:48 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/database.php on line 18
+[24-Jul-2022 05:29:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/hashing.php on line 32
+[24-Jul-2022 05:29:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/hashing.php on line 32
+[24-Jul-2022 05:30:14 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/services.php on line 18
+[24-Jul-2022 05:30:14 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/services.php on line 18
+[24-Jul-2022 05:30:15 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/cache.php on line 18
+[24-Jul-2022 05:30:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/cache.php on line 18
+[24-Jul-2022 19:53:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/app.php on line 18
+[24-Jul-2022 19:53:14 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/app.php on line 18
+[24-Jul-2022 19:53:15 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/broadcasting.php on line 18
+[24-Jul-2022 19:53:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/broadcasting.php on line 18
+[24-Jul-2022 19:53:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/cache.php on line 18
+[24-Jul-2022 19:53:17 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/cache.php on line 18
+[24-Jul-2022 19:53:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/database.php on line 18
+[24-Jul-2022 19:53:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/database.php on line 18
+[24-Jul-2022 19:53:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/filesystems.php on line 16
+[24-Jul-2022 19:53:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/filesystems.php on line 16
+[24-Jul-2022 19:53:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/hashing.php on line 32
+[24-Jul-2022 19:53:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/hashing.php on line 32
+[24-Jul-2022 19:53:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/logging.php on line 20
+[24-Jul-2022 19:53:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/logging.php on line 20
+[24-Jul-2022 19:53:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/mail.php on line 16
+[24-Jul-2022 19:53:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/mail.php on line 16
+[24-Jul-2022 19:53:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/paypal.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/paypal.php on line 8
+[24-Jul-2022 19:53:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/paypal.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/paypal.php on line 8
+[24-Jul-2022 19:53:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/queue.php on line 16
+[24-Jul-2022 19:53:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/queue.php on line 16
+[24-Jul-2022 19:53:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/sanctum.php on line 18
+[24-Jul-2022 19:53:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/sanctum.php on line 18
+[24-Jul-2022 19:53:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/services.php on line 18
+[24-Jul-2022 19:53:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/services.php on line 18
+[24-Jul-2022 19:53:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/session.php on line 21
+[24-Jul-2022 19:53:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/session.php on line 21
+[24-Jul-2022 19:53:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/zeehulxf/topslackresume/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/view.php on line 17
+[24-Jul-2022 19:53:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/zeehulxf/topslackresume/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/view.php on line 17
+[24-Jul-2022 21:49:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/app.php on line 18
+[24-Jul-2022 21:49:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/app.php on line 18
+[24-Jul-2022 21:49:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/broadcasting.php on line 18
+[24-Jul-2022 21:49:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/broadcasting.php on line 18
+[24-Jul-2022 21:49:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/cache.php on line 18
+[24-Jul-2022 21:49:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/cache.php on line 18
+[24-Jul-2022 21:49:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/database.php on line 18
+[24-Jul-2022 21:49:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/database.php on line 18
+[24-Jul-2022 21:49:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/filesystems.php on line 16
+[24-Jul-2022 21:49:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/filesystems.php on line 16
+[24-Jul-2022 21:49:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/hashing.php on line 32
+[24-Jul-2022 21:49:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/hashing.php on line 32
+[24-Jul-2022 21:49:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/logging.php on line 20
+[24-Jul-2022 21:49:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/logging.php on line 20
+[24-Jul-2022 21:49:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/mail.php on line 16
+[24-Jul-2022 21:49:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/mail.php on line 16
+[24-Jul-2022 21:49:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/paypal.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/paypal.php on line 8
+[24-Jul-2022 21:49:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/paypal.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/paypal.php on line 8
+[24-Jul-2022 21:49:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/queue.php on line 16
+[24-Jul-2022 21:49:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/queue.php on line 16
+[24-Jul-2022 21:49:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/sanctum.php on line 18
+[24-Jul-2022 21:49:45 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/sanctum.php on line 18
+[24-Jul-2022 21:49:45 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/services.php on line 18
+[24-Jul-2022 21:49:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/services.php on line 18
+[24-Jul-2022 21:49:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/session.php on line 21
+[24-Jul-2022 21:49:48 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/session.php on line 21
+[24-Jul-2022 21:49:48 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/zeehulxf/topslackresume/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/view.php on line 17
+[24-Jul-2022 21:49:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/zeehulxf/topslackresume/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/view.php on line 17
+[24-Jul-2022 21:50:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/services.php on line 18
+[25-Jul-2022 06:41:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/zeehulxf/topslackresume/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/view.php on line 17
+[25-Jul-2022 06:41:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/session.php on line 21
+[25-Jul-2022 06:41:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/services.php on line 18
+[25-Jul-2022 06:41:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/sanctum.php on line 18
+[25-Jul-2022 06:41:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/queue.php on line 16
+[25-Jul-2022 06:41:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/paypal.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/paypal.php on line 8
+[25-Jul-2022 06:41:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/mail.php on line 16
+[25-Jul-2022 06:41:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/logging.php on line 20
+[25-Jul-2022 06:41:45 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/hashing.php on line 32
+[25-Jul-2022 06:41:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/filesystems.php on line 16
+[25-Jul-2022 06:42:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/database.php on line 18
+[25-Jul-2022 06:42:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/cache.php on line 18
+[25-Jul-2022 06:42:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/broadcasting.php on line 18
+[25-Jul-2022 06:42:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/app.php on line 18
+[25-Jul-2022 07:33:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/zeehulxf/topslackresume/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/view.php on line 17
+[25-Jul-2022 07:33:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/session.php on line 21
+[25-Jul-2022 07:33:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/services.php on line 18
+[25-Jul-2022 07:34:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/sanctum.php on line 18
+[25-Jul-2022 07:34:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/queue.php on line 16
+[25-Jul-2022 07:34:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/paypal.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/paypal.php on line 8
+[25-Jul-2022 07:34:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/mail.php on line 16
+[25-Jul-2022 07:34:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/logging.php on line 20
+[25-Jul-2022 07:34:45 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/hashing.php on line 32
+[25-Jul-2022 07:34:54 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/filesystems.php on line 16
+[25-Jul-2022 07:35:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/database.php on line 18
+[25-Jul-2022 07:35:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/cache.php on line 18
+[25-Jul-2022 07:35:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/broadcasting.php on line 18
+[25-Jul-2022 07:35:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/app.php on line 18
+[25-Jul-2022 18:59:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/app.php on line 18
+[25-Jul-2022 18:59:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/app.php on line 18
+[25-Jul-2022 18:59:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/broadcasting.php on line 18
+[25-Jul-2022 18:59:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/broadcasting.php on line 18
+[25-Jul-2022 18:59:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/cache.php on line 18
+[25-Jul-2022 18:59:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/cache.php on line 18
+[25-Jul-2022 18:59:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/database.php on line 18
+[25-Jul-2022 18:59:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/database.php on line 18
+[25-Jul-2022 18:59:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/filesystems.php on line 16
+[25-Jul-2022 18:59:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/filesystems.php on line 16
+[25-Jul-2022 18:59:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/hashing.php on line 32
+[25-Jul-2022 18:59:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/hashing.php on line 32
+[25-Jul-2022 18:59:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/logging.php on line 20
+[25-Jul-2022 18:59:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/logging.php on line 20
+[25-Jul-2022 18:59:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/mail.php on line 16
+[25-Jul-2022 18:59:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/mail.php on line 16
+[25-Jul-2022 18:59:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/paypal.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/paypal.php on line 8
+[25-Jul-2022 18:59:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/paypal.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/paypal.php on line 8
+[25-Jul-2022 18:59:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/queue.php on line 16
+[25-Jul-2022 18:59:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/queue.php on line 16
+[25-Jul-2022 18:59:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/sanctum.php on line 18
+[25-Jul-2022 18:59:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/sanctum.php on line 18
+[25-Jul-2022 18:59:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/services.php on line 18
+[25-Jul-2022 18:59:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/services.php on line 18
+[25-Jul-2022 18:59:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/session.php on line 21
+[25-Jul-2022 18:59:48 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/session.php on line 21
+[25-Jul-2022 18:59:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/zeehulxf/topslackresume/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/view.php on line 17
+[25-Jul-2022 18:59:50 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/zeehulxf/topslackresume/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/view.php on line 17
+[25-Jul-2022 20:41:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/app.php on line 18
+[25-Jul-2022 20:41:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/app.php on line 18
+[25-Jul-2022 20:41:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/broadcasting.php on line 18
+[25-Jul-2022 20:41:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/broadcasting.php on line 18
+[25-Jul-2022 20:41:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/cache.php on line 18
+[25-Jul-2022 20:41:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/cache.php on line 18
+[25-Jul-2022 20:41:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/database.php on line 18
+[25-Jul-2022 20:41:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/database.php on line 18
+[25-Jul-2022 20:41:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/filesystems.php on line 16
+[25-Jul-2022 20:41:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/filesystems.php on line 16
+[25-Jul-2022 20:41:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/hashing.php on line 32
+[25-Jul-2022 20:41:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/hashing.php on line 32
+[25-Jul-2022 20:41:14 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/logging.php on line 20
+[25-Jul-2022 20:41:15 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/logging.php on line 20
+[25-Jul-2022 20:41:15 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/mail.php on line 16
+[25-Jul-2022 20:41:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/mail.php on line 16
+[25-Jul-2022 20:41:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/paypal.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/paypal.php on line 8
+[25-Jul-2022 20:41:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/paypal.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/paypal.php on line 8
+[25-Jul-2022 20:41:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/queue.php on line 16
+[25-Jul-2022 20:41:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/queue.php on line 16
+[25-Jul-2022 20:41:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/sanctum.php on line 18
+[25-Jul-2022 20:41:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/sanctum.php on line 18
+[25-Jul-2022 20:41:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/services.php on line 18
+[25-Jul-2022 20:41:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/services.php on line 18
+[25-Jul-2022 20:41:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/session.php on line 21
+[25-Jul-2022 20:41:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/session.php on line 21
+[25-Jul-2022 20:41:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/zeehulxf/topslackresume/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/view.php on line 17
+[25-Jul-2022 20:41:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/zeehulxf/topslackresume/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/view.php on line 17
+[25-Jul-2022 22:57:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/app.php on line 18
+[25-Jul-2022 22:57:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/app.php on line 18
+[25-Jul-2022 22:57:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/broadcasting.php on line 18
+[25-Jul-2022 22:57:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/broadcasting.php on line 18
+[25-Jul-2022 22:57:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/cache.php on line 18
+[25-Jul-2022 22:57:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/cache.php on line 18
+[25-Jul-2022 22:57:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/database.php on line 18
+[25-Jul-2022 22:57:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/database.php on line 18
+[25-Jul-2022 22:57:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/filesystems.php on line 16
+[25-Jul-2022 22:57:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/filesystems.php on line 16
+[25-Jul-2022 22:57:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/hashing.php on line 32
+[25-Jul-2022 22:57:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/hashing.php on line 32
+[25-Jul-2022 22:57:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/logging.php on line 20
+[25-Jul-2022 22:57:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/logging.php on line 20
+[25-Jul-2022 22:57:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/mail.php on line 16
+[25-Jul-2022 22:57:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/mail.php on line 16
+[25-Jul-2022 22:57:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/paypal.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/paypal.php on line 8
+[25-Jul-2022 22:57:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/paypal.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/paypal.php on line 8
+[25-Jul-2022 22:57:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/queue.php on line 16
+[25-Jul-2022 22:57:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/queue.php on line 16
+[25-Jul-2022 22:57:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/sanctum.php on line 18
+[25-Jul-2022 22:57:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/sanctum.php on line 18
+[25-Jul-2022 22:57:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/services.php on line 18
+[25-Jul-2022 22:57:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/services.php on line 18
+[25-Jul-2022 22:57:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/session.php on line 21
+[25-Jul-2022 22:57:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/session.php on line 21
+[25-Jul-2022 22:57:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/zeehulxf/topslackresume/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/view.php on line 17
+[25-Jul-2022 22:57:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/zeehulxf/topslackresume/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/view.php on line 17
+[26-Jul-2022 00:49:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/broadcasting.php on line 18
+[26-Jul-2022 01:52:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/filesystems.php on line 16
+[26-Jul-2022 01:57:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/app.php on line 18
+[26-Jul-2022 01:57:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/app.php on line 18
+[26-Jul-2022 01:57:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/broadcasting.php on line 18
+[26-Jul-2022 01:57:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/broadcasting.php on line 18
+[26-Jul-2022 01:57:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/cache.php on line 18
+[26-Jul-2022 01:57:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/cache.php on line 18
+[26-Jul-2022 01:57:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/database.php on line 18
+[26-Jul-2022 01:57:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/database.php on line 18
+[26-Jul-2022 01:57:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/filesystems.php on line 16
+[26-Jul-2022 01:57:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/filesystems.php on line 16
+[26-Jul-2022 01:57:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/hashing.php on line 32
+[26-Jul-2022 01:57:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/hashing.php on line 32
+[26-Jul-2022 01:57:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/logging.php on line 20
+[26-Jul-2022 01:57:45 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/logging.php on line 20
+[26-Jul-2022 01:57:45 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/mail.php on line 16
+[26-Jul-2022 01:57:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/mail.php on line 16
+[26-Jul-2022 01:57:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/paypal.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/paypal.php on line 8
+[26-Jul-2022 01:57:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/paypal.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/paypal.php on line 8
+[26-Jul-2022 01:57:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/queue.php on line 16
+[26-Jul-2022 01:57:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/queue.php on line 16
+[26-Jul-2022 01:57:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/sanctum.php on line 18
+[26-Jul-2022 01:57:50 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/sanctum.php on line 18
+[26-Jul-2022 01:57:50 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/services.php on line 18
+[26-Jul-2022 01:57:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/services.php on line 18
+[26-Jul-2022 01:57:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/session.php on line 21
+[26-Jul-2022 01:57:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/session.php on line 21
+[26-Jul-2022 01:57:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/zeehulxf/topslackresume/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/view.php on line 17
+[26-Jul-2022 01:57:54 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/zeehulxf/topslackresume/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/view.php on line 17
+[26-Jul-2022 08:54:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/database.php on line 18
+[26-Jul-2022 09:03:45 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/services.php on line 18
+[26-Jul-2022 21:48:57 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/logging.php on line 20
+[26-Jul-2022 21:58:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/sanctum.php on line 18
+[26-Jul-2022 22:16:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/broadcasting.php on line 18
+[29-Jul-2022 22:36:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/database.php on line 18
+[29-Jul-2022 22:36:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/queue.php on line 16
+[29-Jul-2022 22:36:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/database.php on line 18
+[29-Jul-2022 22:36:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/database.php on line 18
+[29-Jul-2022 22:36:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/queue.php on line 16
+[29-Jul-2022 22:36:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/cache.php on line 18
+[29-Jul-2022 22:36:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/database.php on line 18
+[29-Jul-2022 22:36:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/cache.php on line 18
+[29-Jul-2022 22:36:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/session.php on line 21
+[29-Jul-2022 22:36:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/cache.php on line 18
+[29-Jul-2022 22:36:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/app.php on line 18
+[29-Jul-2022 22:36:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/session.php on line 21
+[29-Jul-2022 22:36:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/session.php on line 21
+[29-Jul-2022 22:36:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/cache.php on line 18
+[29-Jul-2022 22:36:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/logging.php on line 20
+[29-Jul-2022 22:36:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/logging.php on line 20
+[29-Jul-2022 22:36:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/paypal.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/paypal.php on line 8
+[29-Jul-2022 22:36:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/cache.php on line 18
+[29-Jul-2022 22:36:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/filesystems.php on line 16
+[29-Jul-2022 22:36:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/filesystems.php on line 16
+[29-Jul-2022 22:36:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/queue.php on line 16
+[29-Jul-2022 22:36:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/services.php on line 18
+[29-Jul-2022 22:36:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/queue.php on line 16
+[29-Jul-2022 22:36:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/app.php on line 18
+[29-Jul-2022 22:36:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/hashing.php on line 32
+[29-Jul-2022 22:36:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/broadcasting.php on line 18
+[29-Jul-2022 22:36:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/zeehulxf/topslackresume/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/view.php on line 17
+[29-Jul-2022 22:36:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/hashing.php on line 32
+[29-Jul-2022 22:36:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/hashing.php on line 32
+[29-Jul-2022 22:36:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/zeehulxf/topslackresume/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/view.php on line 17
+[29-Jul-2022 22:36:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/logging.php on line 20
+[29-Jul-2022 22:36:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/services.php on line 18
+[29-Jul-2022 22:36:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/services.php on line 18
+[29-Jul-2022 22:36:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/app.php on line 18
+[29-Jul-2022 22:36:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/hashing.php on line 32
+[29-Jul-2022 22:36:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/filesystems.php on line 16
+[29-Jul-2022 22:36:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/services.php on line 18
+[29-Jul-2022 22:36:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/logging.php on line 20
+[29-Jul-2022 22:36:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/broadcasting.php on line 18
+[29-Jul-2022 22:36:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/logging.php on line 20
+[29-Jul-2022 22:36:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/hashing.php on line 32
+[29-Jul-2022 22:36:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/broadcasting.php on line 18
+[29-Jul-2022 22:36:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/broadcasting.php on line 18
+[29-Jul-2022 22:36:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/cache.php on line 18
+[29-Jul-2022 22:36:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/zeehulxf/topslackresume/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/view.php on line 17
+[29-Jul-2022 22:36:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/paypal.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/paypal.php on line 8
+[29-Jul-2022 22:36:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/sanctum.php on line 18
+[29-Jul-2022 22:36:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/mail.php on line 16
+[29-Jul-2022 22:36:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/hashing.php on line 32
+[29-Jul-2022 22:36:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/hashing.php on line 32
+[29-Jul-2022 22:36:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/sanctum.php on line 18
+[29-Jul-2022 22:36:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/logging.php on line 20
+[29-Jul-2022 22:36:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/mail.php on line 16
+[29-Jul-2022 22:36:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/mail.php on line 16
+[29-Jul-2022 22:36:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/services.php on line 18
+[29-Jul-2022 22:36:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/zeehulxf/topslackresume/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/view.php on line 17
+[29-Jul-2022 22:36:45 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/app.php on line 18
+[29-Jul-2022 22:36:45 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/sanctum.php on line 18
+[29-Jul-2022 22:36:45 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/mail.php on line 16
+[29-Jul-2022 22:36:45 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/paypal.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/paypal.php on line 8
+[29-Jul-2022 22:36:45 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/logging.php on line 20
+[29-Jul-2022 22:36:45 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/cache.php on line 18
+[29-Jul-2022 22:36:45 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/sanctum.php on line 18
+[29-Jul-2022 22:36:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/queue.php on line 16
+[29-Jul-2022 22:36:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/paypal.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/paypal.php on line 8
+[29-Jul-2022 22:36:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/services.php on line 18
+[29-Jul-2022 22:36:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/services.php on line 18
+[29-Jul-2022 22:36:48 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/queue.php on line 16
+[29-Jul-2022 22:36:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/queue.php on line 16
+[29-Jul-2022 22:36:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/sanctum.php on line 18
+[29-Jul-2022 22:36:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/filesystems.php on line 16
+[29-Jul-2022 22:36:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/sanctum.php on line 18
+[29-Jul-2022 22:36:57 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/sanctum.php on line 18
+[29-Jul-2022 22:37:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/database.php on line 18
+[29-Jul-2022 22:37:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/database.php on line 18
+[29-Jul-2022 22:37:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/mail.php on line 16
+[29-Jul-2022 22:37:14 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/mail.php on line 16
+[29-Jul-2022 22:37:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/app.php on line 18
+[29-Jul-2022 22:37:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/broadcasting.php on line 18
+[29-Jul-2022 22:37:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/broadcasting.php on line 18
+[29-Jul-2022 22:37:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/paypal.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/paypal.php on line 8
+[29-Jul-2022 22:37:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/filesystems.php on line 16
+[29-Jul-2022 22:37:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/session.php on line 21
+[29-Jul-2022 22:37:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/app.php on line 18
+[29-Jul-2022 22:37:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/paypal.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/paypal.php on line 8
+[29-Jul-2022 22:37:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/zeehulxf/topslackresume/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/config/filesystems.php on line 16

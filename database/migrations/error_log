@@ -1,0 +1,420 @@
+[23-Jul-2022 03:53:28 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[23-Jul-2022 03:53:29 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[23-Jul-2022 03:53:29 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[23-Jul-2022 03:53:30 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[23-Jul-2022 03:53:30 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[23-Jul-2022 03:53:31 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[23-Jul-2022 03:53:32 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php on line 7
+[23-Jul-2022 03:53:33 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php on line 7
+[23-Jul-2022 05:47:08 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[23-Jul-2022 05:47:10 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[23-Jul-2022 05:47:10 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[23-Jul-2022 05:47:11 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[23-Jul-2022 05:47:11 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[23-Jul-2022 05:47:12 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[23-Jul-2022 05:47:12 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php on line 7
+[23-Jul-2022 05:47:14 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php on line 7
+[23-Jul-2022 07:10:07 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[23-Jul-2022 07:10:08 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[23-Jul-2022 07:10:09 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[23-Jul-2022 07:10:10 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[23-Jul-2022 07:10:10 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[23-Jul-2022 07:10:11 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[23-Jul-2022 07:10:11 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php on line 7
+[23-Jul-2022 07:10:13 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php on line 7
+[23-Jul-2022 12:02:24 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[23-Jul-2022 12:02:26 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[23-Jul-2022 12:02:26 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[23-Jul-2022 12:02:27 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[23-Jul-2022 12:02:27 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[23-Jul-2022 12:02:28 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[23-Jul-2022 12:02:29 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php on line 7
+[23-Jul-2022 12:02:30 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php on line 7
+[23-Jul-2022 13:37:01 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[23-Jul-2022 13:37:02 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[23-Jul-2022 13:37:02 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[23-Jul-2022 13:37:03 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[23-Jul-2022 13:37:03 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[23-Jul-2022 13:37:05 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[23-Jul-2022 13:37:05 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php on line 7
+[23-Jul-2022 13:37:06 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php on line 7
+[23-Jul-2022 15:52:22 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[23-Jul-2022 15:52:23 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[23-Jul-2022 15:52:23 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[23-Jul-2022 15:52:25 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[23-Jul-2022 15:52:25 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[23-Jul-2022 15:52:26 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[23-Jul-2022 15:52:26 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php on line 7
+[23-Jul-2022 15:52:27 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php on line 7
+[24-Jul-2022 01:50:09 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[24-Jul-2022 19:54:52 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[24-Jul-2022 19:54:54 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[24-Jul-2022 19:54:54 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[24-Jul-2022 19:54:55 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[24-Jul-2022 19:54:55 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[24-Jul-2022 19:54:56 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[24-Jul-2022 19:54:56 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php on line 7
+[24-Jul-2022 19:54:58 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php on line 7
+[24-Jul-2022 21:51:14 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[24-Jul-2022 21:51:15 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[24-Jul-2022 21:51:15 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[24-Jul-2022 21:51:17 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[24-Jul-2022 21:51:17 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[24-Jul-2022 21:51:18 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[24-Jul-2022 21:51:18 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php on line 7
+[24-Jul-2022 21:51:19 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php on line 7
+[25-Jul-2022 08:02:03 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php on line 7
+[25-Jul-2022 08:02:13 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[25-Jul-2022 08:02:24 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[25-Jul-2022 08:02:39 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[25-Jul-2022 08:39:36 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php on line 7
+[25-Jul-2022 08:39:46 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[25-Jul-2022 08:39:55 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[25-Jul-2022 08:40:05 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[25-Jul-2022 19:01:34 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[25-Jul-2022 19:01:35 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[25-Jul-2022 19:01:35 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[25-Jul-2022 19:01:37 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[25-Jul-2022 19:01:37 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[25-Jul-2022 19:01:38 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[25-Jul-2022 19:01:38 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php on line 7
+[25-Jul-2022 19:01:39 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php on line 7
+[25-Jul-2022 20:42:45 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[25-Jul-2022 20:42:46 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[25-Jul-2022 20:42:46 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[25-Jul-2022 20:42:47 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[25-Jul-2022 20:42:47 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[25-Jul-2022 20:42:49 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[25-Jul-2022 20:42:49 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php on line 7
+[25-Jul-2022 20:42:50 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php on line 7
+[25-Jul-2022 22:58:58 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[25-Jul-2022 22:58:59 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[25-Jul-2022 22:58:59 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[25-Jul-2022 22:59:00 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[25-Jul-2022 22:59:01 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[25-Jul-2022 22:59:02 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[25-Jul-2022 22:59:02 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php on line 7
+[25-Jul-2022 22:59:03 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php on line 7
+[26-Jul-2022 01:59:09 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[26-Jul-2022 01:59:10 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[26-Jul-2022 01:59:10 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[26-Jul-2022 01:59:11 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[26-Jul-2022 01:59:11 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[26-Jul-2022 01:59:13 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[26-Jul-2022 01:59:13 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php on line 7
+[26-Jul-2022 01:59:14 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/zeehulxf/topslackresume/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php on line 7

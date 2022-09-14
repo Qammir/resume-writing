@@ -1,0 +1,696 @@
+[23-Jul-2022 03:55:56 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/Controller.php on line 10
+[23-Jul-2022 03:55:57 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/Controller.php on line 10
+[23-Jul-2022 03:55:57 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/HomeController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/HomeController.php on line 7
+[23-Jul-2022 03:55:58 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/HomeController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/HomeController.php on line 7
+[23-Jul-2022 03:55:59 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/LoginController.php on line 9
+[23-Jul-2022 03:56:00 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/LoginController.php on line 9
+[23-Jul-2022 03:56:00 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/LogoutController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/LogoutController.php on line 9
+[23-Jul-2022 03:56:01 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/LogoutController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/LogoutController.php on line 9
+[23-Jul-2022 03:56:01 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/OrderController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/OrderController.php on line 7
+[23-Jul-2022 03:56:02 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/OrderController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/OrderController.php on line 7
+[23-Jul-2022 03:56:03 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/PaymentController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/PaymentController.php on line 7
+[23-Jul-2022 03:56:04 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/PaymentController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/PaymentController.php on line 7
+[23-Jul-2022 03:56:04 America/New_York] PHP Parse error:  syntax error, unexpected token ";", expecting "]" in /home/zeehulxf/topslackresume/app/Http/Controllers/PaypalPaymentController.php on line 107
+[23-Jul-2022 03:56:05 America/New_York] PHP Parse error:  syntax error, unexpected token ";", expecting "]" in /home/zeehulxf/topslackresume/app/Http/Controllers/PaypalPaymentController.php on line 107
+[23-Jul-2022 03:56:05 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/RegisterController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/RegisterController.php on line 9
+[23-Jul-2022 03:56:07 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/RegisterController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/RegisterController.php on line 9
+[23-Jul-2022 05:49:39 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/Controller.php on line 10
+[23-Jul-2022 05:49:40 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/Controller.php on line 10
+[23-Jul-2022 05:49:40 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/HomeController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/HomeController.php on line 7
+[23-Jul-2022 05:49:41 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/HomeController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/HomeController.php on line 7
+[23-Jul-2022 05:49:42 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/LoginController.php on line 9
+[23-Jul-2022 05:49:43 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/LoginController.php on line 9
+[23-Jul-2022 05:49:43 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/LogoutController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/LogoutController.php on line 9
+[23-Jul-2022 05:49:44 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/LogoutController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/LogoutController.php on line 9
+[23-Jul-2022 05:49:44 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/OrderController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/OrderController.php on line 7
+[23-Jul-2022 05:49:46 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/OrderController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/OrderController.php on line 7
+[23-Jul-2022 05:49:46 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/PaymentController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/PaymentController.php on line 7
+[23-Jul-2022 05:49:47 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/PaymentController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/PaymentController.php on line 7
+[23-Jul-2022 05:49:47 America/New_York] PHP Parse error:  syntax error, unexpected token ";", expecting "]" in /home/zeehulxf/topslackresume/app/Http/Controllers/PaypalPaymentController.php on line 107
+[23-Jul-2022 05:49:48 America/New_York] PHP Parse error:  syntax error, unexpected token ";", expecting "]" in /home/zeehulxf/topslackresume/app/Http/Controllers/PaypalPaymentController.php on line 107
+[23-Jul-2022 05:49:48 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/RegisterController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/RegisterController.php on line 9
+[23-Jul-2022 05:49:50 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/RegisterController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/RegisterController.php on line 9
+[23-Jul-2022 07:12:45 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/Controller.php on line 10
+[23-Jul-2022 07:12:47 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/Controller.php on line 10
+[23-Jul-2022 07:12:47 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/HomeController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/HomeController.php on line 7
+[23-Jul-2022 07:12:48 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/HomeController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/HomeController.php on line 7
+[23-Jul-2022 07:12:48 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/LoginController.php on line 9
+[23-Jul-2022 07:12:50 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/LoginController.php on line 9
+[23-Jul-2022 07:12:50 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/LogoutController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/LogoutController.php on line 9
+[23-Jul-2022 07:12:51 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/LogoutController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/LogoutController.php on line 9
+[23-Jul-2022 07:12:51 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/OrderController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/OrderController.php on line 7
+[23-Jul-2022 07:12:52 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/OrderController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/OrderController.php on line 7
+[23-Jul-2022 07:12:53 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/PaymentController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/PaymentController.php on line 7
+[23-Jul-2022 07:12:54 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/PaymentController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/PaymentController.php on line 7
+[23-Jul-2022 07:12:54 America/New_York] PHP Parse error:  syntax error, unexpected token ";", expecting "]" in /home/zeehulxf/topslackresume/app/Http/Controllers/PaypalPaymentController.php on line 107
+[23-Jul-2022 07:12:55 America/New_York] PHP Parse error:  syntax error, unexpected token ";", expecting "]" in /home/zeehulxf/topslackresume/app/Http/Controllers/PaypalPaymentController.php on line 107
+[23-Jul-2022 07:12:55 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/RegisterController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/RegisterController.php on line 9
+[23-Jul-2022 07:12:57 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/RegisterController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/RegisterController.php on line 9
+[23-Jul-2022 12:04:58 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/Controller.php on line 10
+[23-Jul-2022 12:05:00 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/Controller.php on line 10
+[23-Jul-2022 12:05:00 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/HomeController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/HomeController.php on line 7
+[23-Jul-2022 12:05:01 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/HomeController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/HomeController.php on line 7
+[23-Jul-2022 12:05:01 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/LoginController.php on line 9
+[23-Jul-2022 12:05:03 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/LoginController.php on line 9
+[23-Jul-2022 12:05:03 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/LogoutController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/LogoutController.php on line 9
+[23-Jul-2022 12:05:04 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/LogoutController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/LogoutController.php on line 9
+[23-Jul-2022 12:05:04 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/OrderController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/OrderController.php on line 7
+[23-Jul-2022 12:05:06 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/OrderController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/OrderController.php on line 7
+[23-Jul-2022 12:05:06 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/PaymentController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/PaymentController.php on line 7
+[23-Jul-2022 12:05:07 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/PaymentController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/PaymentController.php on line 7
+[23-Jul-2022 12:05:07 America/New_York] PHP Parse error:  syntax error, unexpected token ";", expecting "]" in /home/zeehulxf/topslackresume/app/Http/Controllers/PaypalPaymentController.php on line 107
+[23-Jul-2022 12:05:08 America/New_York] PHP Parse error:  syntax error, unexpected token ";", expecting "]" in /home/zeehulxf/topslackresume/app/Http/Controllers/PaypalPaymentController.php on line 107
+[23-Jul-2022 12:05:09 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/RegisterController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/RegisterController.php on line 9
+[23-Jul-2022 12:05:10 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/RegisterController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/RegisterController.php on line 9
+[23-Jul-2022 13:39:32 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/Controller.php on line 10
+[23-Jul-2022 13:39:33 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/Controller.php on line 10
+[23-Jul-2022 13:39:33 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/HomeController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/HomeController.php on line 7
+[23-Jul-2022 13:39:34 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/HomeController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/HomeController.php on line 7
+[23-Jul-2022 13:39:34 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/LoginController.php on line 9
+[23-Jul-2022 13:39:36 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/LoginController.php on line 9
+[23-Jul-2022 13:39:36 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/LogoutController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/LogoutController.php on line 9
+[23-Jul-2022 13:39:37 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/LogoutController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/LogoutController.php on line 9
+[23-Jul-2022 13:39:37 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/OrderController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/OrderController.php on line 7
+[23-Jul-2022 13:39:38 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/OrderController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/OrderController.php on line 7
+[23-Jul-2022 13:39:38 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/PaymentController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/PaymentController.php on line 7
+[23-Jul-2022 13:39:40 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/PaymentController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/PaymentController.php on line 7
+[23-Jul-2022 13:39:40 America/New_York] PHP Parse error:  syntax error, unexpected token ";", expecting "]" in /home/zeehulxf/topslackresume/app/Http/Controllers/PaypalPaymentController.php on line 107
+[23-Jul-2022 13:39:41 America/New_York] PHP Parse error:  syntax error, unexpected token ";", expecting "]" in /home/zeehulxf/topslackresume/app/Http/Controllers/PaypalPaymentController.php on line 107
+[23-Jul-2022 13:39:41 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/RegisterController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/RegisterController.php on line 9
+[23-Jul-2022 13:39:42 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/RegisterController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/RegisterController.php on line 9
+[23-Jul-2022 15:54:48 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/Controller.php on line 10
+[23-Jul-2022 15:54:49 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/Controller.php on line 10
+[23-Jul-2022 15:54:50 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/HomeController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/HomeController.php on line 7
+[23-Jul-2022 15:54:51 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/HomeController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/HomeController.php on line 7
+[23-Jul-2022 15:54:51 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/LoginController.php on line 9
+[23-Jul-2022 15:54:52 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/LoginController.php on line 9
+[23-Jul-2022 15:54:53 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/LogoutController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/LogoutController.php on line 9
+[23-Jul-2022 15:54:54 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/LogoutController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/LogoutController.php on line 9
+[23-Jul-2022 15:54:54 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/OrderController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/OrderController.php on line 7
+[23-Jul-2022 15:54:55 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/OrderController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/OrderController.php on line 7
+[23-Jul-2022 15:54:55 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/PaymentController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/PaymentController.php on line 7
+[23-Jul-2022 15:54:56 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/PaymentController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/PaymentController.php on line 7
+[23-Jul-2022 15:54:57 America/New_York] PHP Parse error:  syntax error, unexpected token ";", expecting "]" in /home/zeehulxf/topslackresume/app/Http/Controllers/PaypalPaymentController.php on line 107
+[23-Jul-2022 15:54:58 America/New_York] PHP Parse error:  syntax error, unexpected token ";", expecting "]" in /home/zeehulxf/topslackresume/app/Http/Controllers/PaypalPaymentController.php on line 107
+[23-Jul-2022 15:54:58 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/RegisterController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/RegisterController.php on line 9
+[23-Jul-2022 15:54:59 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/RegisterController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/RegisterController.php on line 9
+[24-Jul-2022 19:57:23 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/Controller.php on line 10
+[24-Jul-2022 19:57:24 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/Controller.php on line 10
+[24-Jul-2022 19:57:25 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/HomeController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/HomeController.php on line 7
+[24-Jul-2022 19:57:26 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/HomeController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/HomeController.php on line 7
+[24-Jul-2022 19:57:26 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/LoginController.php on line 9
+[24-Jul-2022 19:57:27 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/LoginController.php on line 9
+[24-Jul-2022 19:57:27 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/LogoutController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/LogoutController.php on line 9
+[24-Jul-2022 19:57:28 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/LogoutController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/LogoutController.php on line 9
+[24-Jul-2022 19:57:29 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/OrderController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/OrderController.php on line 7
+[24-Jul-2022 19:57:30 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/OrderController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/OrderController.php on line 7
+[24-Jul-2022 19:57:30 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/PaymentController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/PaymentController.php on line 7
+[24-Jul-2022 19:57:31 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/PaymentController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/PaymentController.php on line 7
+[24-Jul-2022 19:57:31 America/New_York] PHP Parse error:  syntax error, unexpected token ";", expecting "]" in /home/zeehulxf/topslackresume/app/Http/Controllers/PaypalPaymentController.php on line 107
+[24-Jul-2022 19:57:33 America/New_York] PHP Parse error:  syntax error, unexpected token ";", expecting "]" in /home/zeehulxf/topslackresume/app/Http/Controllers/PaypalPaymentController.php on line 107
+[24-Jul-2022 19:57:33 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/RegisterController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/RegisterController.php on line 9
+[24-Jul-2022 19:57:34 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/RegisterController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/RegisterController.php on line 9
+[24-Jul-2022 21:53:43 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/Controller.php on line 10
+[24-Jul-2022 21:53:44 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/Controller.php on line 10
+[24-Jul-2022 21:53:45 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/HomeController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/HomeController.php on line 7
+[24-Jul-2022 21:53:46 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/HomeController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/HomeController.php on line 7
+[24-Jul-2022 21:53:46 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/LoginController.php on line 9
+[24-Jul-2022 21:53:47 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/LoginController.php on line 9
+[24-Jul-2022 21:53:48 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/LogoutController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/LogoutController.php on line 9
+[24-Jul-2022 21:53:49 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/LogoutController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/LogoutController.php on line 9
+[24-Jul-2022 21:53:49 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/OrderController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/OrderController.php on line 7
+[24-Jul-2022 21:53:50 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/OrderController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/OrderController.php on line 7
+[24-Jul-2022 21:53:50 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/PaymentController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/PaymentController.php on line 7
+[24-Jul-2022 21:53:51 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/PaymentController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/PaymentController.php on line 7
+[24-Jul-2022 21:53:52 America/New_York] PHP Parse error:  syntax error, unexpected token ";", expecting "]" in /home/zeehulxf/topslackresume/app/Http/Controllers/PaypalPaymentController.php on line 107
+[24-Jul-2022 21:53:53 America/New_York] PHP Parse error:  syntax error, unexpected token ";", expecting "]" in /home/zeehulxf/topslackresume/app/Http/Controllers/PaypalPaymentController.php on line 107
+[24-Jul-2022 21:53:53 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/RegisterController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/RegisterController.php on line 9
+[24-Jul-2022 21:53:54 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/RegisterController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/RegisterController.php on line 9
+[25-Jul-2022 19:04:46 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/Controller.php on line 10
+[25-Jul-2022 19:04:47 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/Controller.php on line 10
+[25-Jul-2022 19:04:48 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/HomeController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/HomeController.php on line 7
+[25-Jul-2022 19:04:49 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/HomeController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/HomeController.php on line 7
+[25-Jul-2022 19:04:49 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/LoginController.php on line 9
+[25-Jul-2022 19:04:51 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/LoginController.php on line 9
+[25-Jul-2022 19:04:51 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/LogoutController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/LogoutController.php on line 9
+[25-Jul-2022 19:04:52 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/LogoutController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/LogoutController.php on line 9
+[25-Jul-2022 19:04:53 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/OrderController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/OrderController.php on line 7
+[25-Jul-2022 19:04:54 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/OrderController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/OrderController.php on line 7
+[25-Jul-2022 19:04:54 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/PaymentController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/PaymentController.php on line 7
+[25-Jul-2022 19:04:56 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/PaymentController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/PaymentController.php on line 7
+[25-Jul-2022 19:04:56 America/New_York] PHP Parse error:  syntax error, unexpected token ";", expecting "]" in /home/zeehulxf/topslackresume/app/Http/Controllers/PaypalPaymentController.php on line 107
+[25-Jul-2022 19:04:57 America/New_York] PHP Parse error:  syntax error, unexpected token ";", expecting "]" in /home/zeehulxf/topslackresume/app/Http/Controllers/PaypalPaymentController.php on line 107
+[25-Jul-2022 19:04:57 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/RegisterController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/RegisterController.php on line 9
+[25-Jul-2022 19:04:59 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/RegisterController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/RegisterController.php on line 9
+[25-Jul-2022 20:45:14 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/Controller.php on line 10
+[25-Jul-2022 20:45:15 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/Controller.php on line 10
+[25-Jul-2022 20:45:15 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/HomeController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/HomeController.php on line 7
+[25-Jul-2022 20:45:16 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/HomeController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/HomeController.php on line 7
+[25-Jul-2022 20:45:17 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/LoginController.php on line 9
+[25-Jul-2022 20:45:18 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/LoginController.php on line 9
+[25-Jul-2022 20:45:18 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/LogoutController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/LogoutController.php on line 9
+[25-Jul-2022 20:45:19 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/LogoutController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/LogoutController.php on line 9
+[25-Jul-2022 20:45:19 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/OrderController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/OrderController.php on line 7
+[25-Jul-2022 20:45:21 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/OrderController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/OrderController.php on line 7
+[25-Jul-2022 20:45:21 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/PaymentController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/PaymentController.php on line 7
+[25-Jul-2022 20:45:22 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/PaymentController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/PaymentController.php on line 7
+[25-Jul-2022 20:45:22 America/New_York] PHP Parse error:  syntax error, unexpected token ";", expecting "]" in /home/zeehulxf/topslackresume/app/Http/Controllers/PaypalPaymentController.php on line 107
+[25-Jul-2022 20:45:23 America/New_York] PHP Parse error:  syntax error, unexpected token ";", expecting "]" in /home/zeehulxf/topslackresume/app/Http/Controllers/PaypalPaymentController.php on line 107
+[25-Jul-2022 20:45:23 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/RegisterController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/RegisterController.php on line 9
+[25-Jul-2022 20:45:25 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/RegisterController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/RegisterController.php on line 9
+[25-Jul-2022 23:01:24 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/Controller.php on line 10
+[25-Jul-2022 23:01:25 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/Controller.php on line 10
+[25-Jul-2022 23:01:26 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/HomeController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/HomeController.php on line 7
+[25-Jul-2022 23:01:27 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/HomeController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/HomeController.php on line 7
+[25-Jul-2022 23:01:27 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/LoginController.php on line 9
+[25-Jul-2022 23:01:28 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/LoginController.php on line 9
+[25-Jul-2022 23:01:28 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/LogoutController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/LogoutController.php on line 9
+[25-Jul-2022 23:01:29 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/LogoutController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/LogoutController.php on line 9
+[25-Jul-2022 23:01:30 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/OrderController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/OrderController.php on line 7
+[25-Jul-2022 23:01:31 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/OrderController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/OrderController.php on line 7
+[25-Jul-2022 23:01:31 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/PaymentController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/PaymentController.php on line 7
+[25-Jul-2022 23:01:32 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/PaymentController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/PaymentController.php on line 7
+[25-Jul-2022 23:01:32 America/New_York] PHP Parse error:  syntax error, unexpected token ";", expecting "]" in /home/zeehulxf/topslackresume/app/Http/Controllers/PaypalPaymentController.php on line 107
+[25-Jul-2022 23:01:33 America/New_York] PHP Parse error:  syntax error, unexpected token ";", expecting "]" in /home/zeehulxf/topslackresume/app/Http/Controllers/PaypalPaymentController.php on line 107
+[25-Jul-2022 23:01:34 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/RegisterController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/RegisterController.php on line 9
+[25-Jul-2022 23:01:35 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/RegisterController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/RegisterController.php on line 9
+[26-Jul-2022 02:01:31 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/Controller.php on line 10
+[26-Jul-2022 02:01:32 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/Controller.php on line 10
+[26-Jul-2022 02:01:32 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/HomeController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/HomeController.php on line 7
+[26-Jul-2022 02:01:33 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/HomeController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/HomeController.php on line 7
+[26-Jul-2022 02:01:34 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/LoginController.php on line 9
+[26-Jul-2022 02:01:35 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/LoginController.php on line 9
+[26-Jul-2022 02:01:35 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/LogoutController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/LogoutController.php on line 9
+[26-Jul-2022 02:01:36 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/LogoutController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/LogoutController.php on line 9
+[26-Jul-2022 02:01:36 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/OrderController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/OrderController.php on line 7
+[26-Jul-2022 02:01:37 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/OrderController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/OrderController.php on line 7
+[26-Jul-2022 02:01:38 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/PaymentController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/PaymentController.php on line 7
+[26-Jul-2022 02:01:39 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/PaymentController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/PaymentController.php on line 7
+[26-Jul-2022 02:01:39 America/New_York] PHP Parse error:  syntax error, unexpected token ";", expecting "]" in /home/zeehulxf/topslackresume/app/Http/Controllers/PaypalPaymentController.php on line 107
+[26-Jul-2022 02:01:40 America/New_York] PHP Parse error:  syntax error, unexpected token ";", expecting "]" in /home/zeehulxf/topslackresume/app/Http/Controllers/PaypalPaymentController.php on line 107
+[26-Jul-2022 02:01:40 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/RegisterController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/RegisterController.php on line 9
+[26-Jul-2022 02:01:41 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/zeehulxf/topslackresume/app/Http/Controllers/RegisterController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Controllers/RegisterController.php on line 9

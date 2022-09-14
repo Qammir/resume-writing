@@ -54,7 +54,7 @@ body{background-color:#eee;}
 }
 #generic_price_table .generic_content .generic_feature_list ul li:hover{
   background-color: #E4E4E4;
-  border-left: 5px solid #2ECC71;
+  border-left: 5px solid #e93f1a;
 }
 
 #generic_price_table .generic_content .generic_price_btn a{

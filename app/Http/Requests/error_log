@@ -1,0 +1,192 @@
+[23-Jul-2022 03:56:19 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/zeehulxf/topslackresume/app/Http/Requests/LoginRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Requests/LoginRequest.php on line 8
+[23-Jul-2022 03:56:20 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/zeehulxf/topslackresume/app/Http/Requests/LoginRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Requests/LoginRequest.php on line 8
+[23-Jul-2022 03:56:20 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/zeehulxf/topslackresume/app/Http/Requests/RegisterRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Requests/RegisterRequest.php on line 7
+[23-Jul-2022 03:56:22 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/zeehulxf/topslackresume/app/Http/Requests/RegisterRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Requests/RegisterRequest.php on line 7
+[23-Jul-2022 05:50:03 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/zeehulxf/topslackresume/app/Http/Requests/LoginRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Requests/LoginRequest.php on line 8
+[23-Jul-2022 05:50:04 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/zeehulxf/topslackresume/app/Http/Requests/LoginRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Requests/LoginRequest.php on line 8
+[23-Jul-2022 05:50:04 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/zeehulxf/topslackresume/app/Http/Requests/RegisterRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Requests/RegisterRequest.php on line 7
+[23-Jul-2022 05:50:05 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/zeehulxf/topslackresume/app/Http/Requests/RegisterRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Requests/RegisterRequest.php on line 7
+[23-Jul-2022 07:13:10 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/zeehulxf/topslackresume/app/Http/Requests/LoginRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Requests/LoginRequest.php on line 8
+[23-Jul-2022 07:13:11 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/zeehulxf/topslackresume/app/Http/Requests/LoginRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Requests/LoginRequest.php on line 8
+[23-Jul-2022 07:13:11 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/zeehulxf/topslackresume/app/Http/Requests/RegisterRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Requests/RegisterRequest.php on line 7
+[23-Jul-2022 07:13:12 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/zeehulxf/topslackresume/app/Http/Requests/RegisterRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Requests/RegisterRequest.php on line 7
+[23-Jul-2022 12:05:23 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/zeehulxf/topslackresume/app/Http/Requests/LoginRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Requests/LoginRequest.php on line 8
+[23-Jul-2022 12:05:24 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/zeehulxf/topslackresume/app/Http/Requests/LoginRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Requests/LoginRequest.php on line 8
+[23-Jul-2022 12:05:24 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/zeehulxf/topslackresume/app/Http/Requests/RegisterRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Requests/RegisterRequest.php on line 7
+[23-Jul-2022 12:05:25 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/zeehulxf/topslackresume/app/Http/Requests/RegisterRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Requests/RegisterRequest.php on line 7
+[23-Jul-2022 13:39:55 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/zeehulxf/topslackresume/app/Http/Requests/LoginRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Requests/LoginRequest.php on line 8
+[23-Jul-2022 13:39:56 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/zeehulxf/topslackresume/app/Http/Requests/LoginRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Requests/LoginRequest.php on line 8
+[23-Jul-2022 13:39:56 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/zeehulxf/topslackresume/app/Http/Requests/RegisterRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Requests/RegisterRequest.php on line 7
+[23-Jul-2022 13:39:58 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/zeehulxf/topslackresume/app/Http/Requests/RegisterRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Requests/RegisterRequest.php on line 7
+[23-Jul-2022 15:55:12 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/zeehulxf/topslackresume/app/Http/Requests/LoginRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Requests/LoginRequest.php on line 8
+[23-Jul-2022 15:55:13 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/zeehulxf/topslackresume/app/Http/Requests/LoginRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Requests/LoginRequest.php on line 8
+[23-Jul-2022 15:55:13 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/zeehulxf/topslackresume/app/Http/Requests/RegisterRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Requests/RegisterRequest.php on line 7
+[23-Jul-2022 15:55:14 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/zeehulxf/topslackresume/app/Http/Requests/RegisterRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Requests/RegisterRequest.php on line 7
+[24-Jul-2022 19:57:47 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/zeehulxf/topslackresume/app/Http/Requests/LoginRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Requests/LoginRequest.php on line 8
+[24-Jul-2022 19:57:48 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/zeehulxf/topslackresume/app/Http/Requests/LoginRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Requests/LoginRequest.php on line 8
+[24-Jul-2022 19:57:48 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/zeehulxf/topslackresume/app/Http/Requests/RegisterRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Requests/RegisterRequest.php on line 7
+[24-Jul-2022 19:57:49 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/zeehulxf/topslackresume/app/Http/Requests/RegisterRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Requests/RegisterRequest.php on line 7
+[24-Jul-2022 21:54:07 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/zeehulxf/topslackresume/app/Http/Requests/LoginRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Requests/LoginRequest.php on line 8
+[24-Jul-2022 21:54:08 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/zeehulxf/topslackresume/app/Http/Requests/LoginRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Requests/LoginRequest.php on line 8
+[24-Jul-2022 21:54:08 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/zeehulxf/topslackresume/app/Http/Requests/RegisterRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Requests/RegisterRequest.php on line 7
+[24-Jul-2022 21:54:09 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/zeehulxf/topslackresume/app/Http/Requests/RegisterRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Requests/RegisterRequest.php on line 7
+[25-Jul-2022 19:05:15 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/zeehulxf/topslackresume/app/Http/Requests/LoginRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Requests/LoginRequest.php on line 8
+[25-Jul-2022 19:05:16 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/zeehulxf/topslackresume/app/Http/Requests/LoginRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Requests/LoginRequest.php on line 8
+[25-Jul-2022 19:05:17 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/zeehulxf/topslackresume/app/Http/Requests/RegisterRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Requests/RegisterRequest.php on line 7
+[25-Jul-2022 19:05:18 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/zeehulxf/topslackresume/app/Http/Requests/RegisterRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Requests/RegisterRequest.php on line 7
+[25-Jul-2022 20:45:38 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/zeehulxf/topslackresume/app/Http/Requests/LoginRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Requests/LoginRequest.php on line 8
+[25-Jul-2022 20:45:39 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/zeehulxf/topslackresume/app/Http/Requests/LoginRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Requests/LoginRequest.php on line 8
+[25-Jul-2022 20:45:39 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/zeehulxf/topslackresume/app/Http/Requests/RegisterRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Requests/RegisterRequest.php on line 7
+[25-Jul-2022 20:45:40 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/zeehulxf/topslackresume/app/Http/Requests/RegisterRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Requests/RegisterRequest.php on line 7
+[25-Jul-2022 23:01:47 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/zeehulxf/topslackresume/app/Http/Requests/LoginRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Requests/LoginRequest.php on line 8
+[25-Jul-2022 23:01:48 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/zeehulxf/topslackresume/app/Http/Requests/LoginRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Requests/LoginRequest.php on line 8
+[25-Jul-2022 23:01:49 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/zeehulxf/topslackresume/app/Http/Requests/RegisterRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Requests/RegisterRequest.php on line 7
+[25-Jul-2022 23:01:50 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/zeehulxf/topslackresume/app/Http/Requests/RegisterRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Requests/RegisterRequest.php on line 7
+[26-Jul-2022 02:01:54 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/zeehulxf/topslackresume/app/Http/Requests/LoginRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Requests/LoginRequest.php on line 8
+[26-Jul-2022 02:01:55 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/zeehulxf/topslackresume/app/Http/Requests/LoginRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Requests/LoginRequest.php on line 8
+[26-Jul-2022 02:01:55 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/zeehulxf/topslackresume/app/Http/Requests/RegisterRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Requests/RegisterRequest.php on line 7
+[26-Jul-2022 02:01:56 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/zeehulxf/topslackresume/app/Http/Requests/RegisterRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Requests/RegisterRequest.php on line 7

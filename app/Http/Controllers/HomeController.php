@@ -8,7 +8,7 @@ class HomeController extends Controller
 {
     public function index() 
     {
-        return view('index');
+        return view('home');
     }
     public function Profile()
     {
@@ -18,8 +18,12 @@ class HomeController extends Controller
     {
         return view('service');
     }
-    public function About()
+    public function AboutUs()
     {
-        return view('about');
+        return view('about-us');
+    }
+    public function Company()
+    {
+        return view('company');
     }
 }

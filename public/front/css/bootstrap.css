@@ -4441,13 +4441,6 @@ input[type="button"].btn-block {
   -ms-flex-wrap: nowrap;
   flex-wrap: nowrap;
 }
-@media (min-width: 768px)
-.navbar-collapse.collapse {
-    display: block !important;
-    height: auto!important;
-    padding-bottom: 0;
-    overflow: visible!important;
-}
 
 .navbar-expand .navbar-collapse {
   display: -ms-flexbox !important;

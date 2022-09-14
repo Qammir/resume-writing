@@ -1,0 +1,672 @@
+[23-Jul-2022 03:56:08 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/Authenticate.php on line 7
+[23-Jul-2022 03:56:09 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/Authenticate.php on line 7
+[23-Jul-2022 03:56:09 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/EncryptCookies.php on line 7
+[23-Jul-2022 03:56:10 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/EncryptCookies.php on line 7
+[23-Jul-2022 03:56:11 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[23-Jul-2022 03:56:12 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[23-Jul-2022 03:56:12 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrimStrings.php on line 7
+[23-Jul-2022 03:56:13 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrimStrings.php on line 7
+[23-Jul-2022 03:56:14 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustHosts.php on line 7
+[23-Jul-2022 03:56:15 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustHosts.php on line 7
+[23-Jul-2022 03:56:15 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustProxies.php on line 8
+[23-Jul-2022 03:56:16 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustProxies.php on line 8
+[23-Jul-2022 03:56:16 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[23-Jul-2022 03:56:18 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[23-Jul-2022 05:49:51 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/Authenticate.php on line 7
+[23-Jul-2022 05:49:52 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/Authenticate.php on line 7
+[23-Jul-2022 05:49:52 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/EncryptCookies.php on line 7
+[23-Jul-2022 05:49:53 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/EncryptCookies.php on line 7
+[23-Jul-2022 05:49:54 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[23-Jul-2022 05:49:55 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[23-Jul-2022 05:49:56 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrimStrings.php on line 7
+[23-Jul-2022 05:49:57 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrimStrings.php on line 7
+[23-Jul-2022 05:49:57 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustHosts.php on line 7
+[23-Jul-2022 05:49:58 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustHosts.php on line 7
+[23-Jul-2022 05:49:58 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustProxies.php on line 8
+[23-Jul-2022 05:50:00 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustProxies.php on line 8
+[23-Jul-2022 05:50:00 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[23-Jul-2022 05:50:01 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[23-Jul-2022 07:12:58 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/Authenticate.php on line 7
+[23-Jul-2022 07:12:59 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/Authenticate.php on line 7
+[23-Jul-2022 07:13:00 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/EncryptCookies.php on line 7
+[23-Jul-2022 07:13:01 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/EncryptCookies.php on line 7
+[23-Jul-2022 07:13:01 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[23-Jul-2022 07:13:02 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[23-Jul-2022 07:13:03 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrimStrings.php on line 7
+[23-Jul-2022 07:13:04 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrimStrings.php on line 7
+[23-Jul-2022 07:13:04 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustHosts.php on line 7
+[23-Jul-2022 07:13:06 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustHosts.php on line 7
+[23-Jul-2022 07:13:06 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustProxies.php on line 8
+[23-Jul-2022 07:13:07 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustProxies.php on line 8
+[23-Jul-2022 07:13:07 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[23-Jul-2022 07:13:08 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[23-Jul-2022 12:05:11 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/Authenticate.php on line 7
+[23-Jul-2022 12:05:12 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/Authenticate.php on line 7
+[23-Jul-2022 12:05:13 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/EncryptCookies.php on line 7
+[23-Jul-2022 12:05:14 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/EncryptCookies.php on line 7
+[23-Jul-2022 12:05:14 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[23-Jul-2022 12:05:15 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[23-Jul-2022 12:05:16 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrimStrings.php on line 7
+[23-Jul-2022 12:05:17 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrimStrings.php on line 7
+[23-Jul-2022 12:05:17 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustHosts.php on line 7
+[23-Jul-2022 12:05:18 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustHosts.php on line 7
+[23-Jul-2022 12:05:19 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustProxies.php on line 8
+[23-Jul-2022 12:05:20 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustProxies.php on line 8
+[23-Jul-2022 12:05:20 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[23-Jul-2022 12:05:21 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[23-Jul-2022 13:39:44 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/Authenticate.php on line 7
+[23-Jul-2022 13:39:45 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/Authenticate.php on line 7
+[23-Jul-2022 13:39:45 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/EncryptCookies.php on line 7
+[23-Jul-2022 13:39:46 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/EncryptCookies.php on line 7
+[23-Jul-2022 13:39:47 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[23-Jul-2022 13:39:48 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[23-Jul-2022 13:39:48 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrimStrings.php on line 7
+[23-Jul-2022 13:39:49 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrimStrings.php on line 7
+[23-Jul-2022 13:39:50 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustHosts.php on line 7
+[23-Jul-2022 13:39:51 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustHosts.php on line 7
+[23-Jul-2022 13:39:51 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustProxies.php on line 8
+[23-Jul-2022 13:39:52 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustProxies.php on line 8
+[23-Jul-2022 13:39:52 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[23-Jul-2022 13:39:54 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[23-Jul-2022 15:55:00 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/Authenticate.php on line 7
+[23-Jul-2022 15:55:02 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/Authenticate.php on line 7
+[23-Jul-2022 15:55:02 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/EncryptCookies.php on line 7
+[23-Jul-2022 15:55:03 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/EncryptCookies.php on line 7
+[23-Jul-2022 15:55:04 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[23-Jul-2022 15:55:05 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[23-Jul-2022 15:55:05 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrimStrings.php on line 7
+[23-Jul-2022 15:55:06 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrimStrings.php on line 7
+[23-Jul-2022 15:55:07 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustHosts.php on line 7
+[23-Jul-2022 15:55:08 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustHosts.php on line 7
+[23-Jul-2022 15:55:08 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustProxies.php on line 8
+[23-Jul-2022 15:55:09 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustProxies.php on line 8
+[23-Jul-2022 15:55:09 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[23-Jul-2022 15:55:10 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[24-Jul-2022 19:57:35 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/Authenticate.php on line 7
+[24-Jul-2022 19:57:36 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/Authenticate.php on line 7
+[24-Jul-2022 19:57:37 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/EncryptCookies.php on line 7
+[24-Jul-2022 19:57:38 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/EncryptCookies.php on line 7
+[24-Jul-2022 19:57:38 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[24-Jul-2022 19:57:39 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[24-Jul-2022 19:57:40 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrimStrings.php on line 7
+[24-Jul-2022 19:57:41 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrimStrings.php on line 7
+[24-Jul-2022 19:57:41 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustHosts.php on line 7
+[24-Jul-2022 19:57:43 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustHosts.php on line 7
+[24-Jul-2022 19:57:43 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustProxies.php on line 8
+[24-Jul-2022 19:57:44 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustProxies.php on line 8
+[24-Jul-2022 19:57:44 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[24-Jul-2022 19:57:45 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[24-Jul-2022 21:53:55 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/Authenticate.php on line 7
+[24-Jul-2022 21:53:57 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/Authenticate.php on line 7
+[24-Jul-2022 21:53:57 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/EncryptCookies.php on line 7
+[24-Jul-2022 21:53:58 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/EncryptCookies.php on line 7
+[24-Jul-2022 21:53:58 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[24-Jul-2022 21:53:59 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[24-Jul-2022 21:54:00 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrimStrings.php on line 7
+[24-Jul-2022 21:54:01 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrimStrings.php on line 7
+[24-Jul-2022 21:54:01 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustHosts.php on line 7
+[24-Jul-2022 21:54:03 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustHosts.php on line 7
+[24-Jul-2022 21:54:03 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustProxies.php on line 8
+[24-Jul-2022 21:54:04 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustProxies.php on line 8
+[24-Jul-2022 21:54:04 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[24-Jul-2022 21:54:05 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[25-Jul-2022 19:05:00 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/Authenticate.php on line 7
+[25-Jul-2022 19:05:02 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/Authenticate.php on line 7
+[25-Jul-2022 19:05:02 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/EncryptCookies.php on line 7
+[25-Jul-2022 19:05:03 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/EncryptCookies.php on line 7
+[25-Jul-2022 19:05:04 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[25-Jul-2022 19:05:05 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[25-Jul-2022 19:05:07 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrimStrings.php on line 7
+[25-Jul-2022 19:05:08 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrimStrings.php on line 7
+[25-Jul-2022 19:05:08 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustHosts.php on line 7
+[25-Jul-2022 19:05:10 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustHosts.php on line 7
+[25-Jul-2022 19:05:10 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustProxies.php on line 8
+[25-Jul-2022 19:05:11 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustProxies.php on line 8
+[25-Jul-2022 19:05:11 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[25-Jul-2022 19:05:13 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[25-Jul-2022 20:45:26 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/Authenticate.php on line 7
+[25-Jul-2022 20:45:27 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/Authenticate.php on line 7
+[25-Jul-2022 20:45:27 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/EncryptCookies.php on line 7
+[25-Jul-2022 20:45:28 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/EncryptCookies.php on line 7
+[25-Jul-2022 20:45:29 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[25-Jul-2022 20:45:30 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[25-Jul-2022 20:45:31 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrimStrings.php on line 7
+[25-Jul-2022 20:45:32 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrimStrings.php on line 7
+[25-Jul-2022 20:45:32 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustHosts.php on line 7
+[25-Jul-2022 20:45:33 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustHosts.php on line 7
+[25-Jul-2022 20:45:34 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustProxies.php on line 8
+[25-Jul-2022 20:45:35 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustProxies.php on line 8
+[25-Jul-2022 20:45:35 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[25-Jul-2022 20:45:36 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[25-Jul-2022 23:01:36 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/Authenticate.php on line 7
+[25-Jul-2022 23:01:37 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/Authenticate.php on line 7
+[25-Jul-2022 23:01:37 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/EncryptCookies.php on line 7
+[25-Jul-2022 23:01:39 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/EncryptCookies.php on line 7
+[25-Jul-2022 23:01:39 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[25-Jul-2022 23:01:40 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[25-Jul-2022 23:01:41 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrimStrings.php on line 7
+[25-Jul-2022 23:01:42 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrimStrings.php on line 7
+[25-Jul-2022 23:01:42 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustHosts.php on line 7
+[25-Jul-2022 23:01:43 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustHosts.php on line 7
+[25-Jul-2022 23:01:43 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustProxies.php on line 8
+[25-Jul-2022 23:01:45 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustProxies.php on line 8
+[25-Jul-2022 23:01:45 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[25-Jul-2022 23:01:46 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[26-Jul-2022 02:01:43 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/Authenticate.php on line 7
+[26-Jul-2022 02:01:44 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/Authenticate.php on line 7
+[26-Jul-2022 02:01:44 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/EncryptCookies.php on line 7
+[26-Jul-2022 02:01:45 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/EncryptCookies.php on line 7
+[26-Jul-2022 02:01:46 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[26-Jul-2022 02:01:47 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[26-Jul-2022 02:01:47 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrimStrings.php on line 7
+[26-Jul-2022 02:01:48 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrimStrings.php on line 7
+[26-Jul-2022 02:01:49 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustHosts.php on line 7
+[26-Jul-2022 02:01:50 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustHosts.php on line 7
+[26-Jul-2022 02:01:50 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustProxies.php on line 8
+[26-Jul-2022 02:01:51 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/TrustProxies.php on line 8
+[26-Jul-2022 02:01:51 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[26-Jul-2022 02:01:52 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/zeehulxf/topslackresume/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zeehulxf/topslackresume/app/Http/Middleware/VerifyCsrfToken.php on line 7
