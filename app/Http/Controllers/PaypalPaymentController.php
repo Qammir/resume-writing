@@ -1,7 +1,7 @@
 <?php
 
 namespace App\Http\Controllers;
-use Illuminate\Support\Facades\Request;
+use Illuminate\Http\Request;
 
 use Srmklive\PayPal\Services\ExpressCheckout;
 
@@ -32,8 +32,9 @@ public function payment()
  $data['cancel_url'] = route('payment.cancel');
  $data['total'] = 100;
 
- $provider = new ExpressCheckout;
+ $provider = new ExpressCheckout();
  $response = $provider->setExpressCheckout($data);
+ dd($response);
  $response = $provider->setExpressCheckout($data, true);
 return redirect($response['paypal_link']);
 dd($response);
@@ -58,7 +59,7 @@ public function cancel()
 
 public function success(Request $request)
 {
-    $provider = new ExpressCheckout;
+ $provider = new ExpressCheckout();
  $response = $provider->getExpressCheckoutDetails($request->token);
 
 if (in_array(strtoupper($response['ACK']), ['SUCCESS', 'SUCCESSWITHWARNING'])) {
