@@ -1,124 +1,70 @@
 <?php
- 
-
- 
 
 namespace App\Http\Controllers;
-
-use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Request;
 
 use Srmklive\PayPal\Services\ExpressCheckout;
-use Illuminate\Support\Facades\DB;
- use Auth;
 
-class PayPalPaymentController extends Controller
+class PaypalPaymentController extends Controller
 
 {
+/**
+ * Responds with a welcome message with instructions
+ *
+ * @return \Illuminate\Http\Response
+ */
 
-public function handlePayment(Request $request)
-
+public function payment()
 {
-
-$product['items'] = [
-
+ $data = [];
+ $data['items'] = [
 [
-'name' => $request['name'],
-
-'price' => $request['amount'],
-
-'desc'  => $request['summary'],
-
+'name' => 'codesolutionstuff.com',
+'price' => 100,
+'desc' => 'Description for codesolutionstuff.com',
 'qty' => 1
-
 ]
-
 ];
 
- 
+ $data['invoice_id'] = 1;
+ $data['invoice_description'] = "Order #{$data['invoice_id']} Invoice";
+ $data['return_url'] = route('payment.success');
+ $data['cancel_url'] = route('payment.cancel');
+ $data['total'] = 100;
 
-$product['invoice_id'] = Auth::user()->id;
-
-$product['invoice_description'] ="Order #{$product['invoice_id']} Bill";
-
-$product['return_url'] = route('success.payment');
-
-$product['cancel_url'] = route('cancel.payment');
-
-$product['total'] = 1;
-
- 
-
-$paypalModule = new ExpressCheckout;
-
- 
-
-$res = $paypalModule->setExpressCheckout($product);
-$res = $paypalModule->setExpressCheckout($product, true);
-
-
- 
-
-return redirect($res['paypal_link']);
-
+ $provider = new ExpressCheckout;
+ $response = $provider->setExpressCheckout($data);
+ $response = $provider->setExpressCheckout($data, true);
+return redirect($response['paypal_link']);
+dd($response);
 }
 
- 
+/**
+ * Responds with a welcome message with instructions
+ *
+ * @return \Illuminate\Http\Response
+ */
 
-public function paymentCancel()
-
+public function cancel()
 {
-
-dd('Your payment has been declend. The payment cancelation page goes here!');
-
+ dd('Your payment is canceled. You can create cancel page here.');
 }
 
- 
+/**
+ * Responds with a welcome message with instructions
+ *
+ * @return \Illuminate\Http\Response
+ */
 
-public function paymentSuccess(Request $request)
-
+public function success(Request $request)
 {
-
-$paypalModule = new ExpressCheckout;
-
-$response = $paypalModule->getExpressCheckoutDetails($request->token);
-
- 
+    $provider = new ExpressCheckout;
+ $response = $provider->getExpressCheckoutDetails($request->token);
 
 if (in_array(strtoupper($response['ACK']), ['SUCCESS', 'SUCCESSWITHWARNING'])) {
-
-$getId = DB::table('orders')->insert([
-    'user_id' => Auth::user()->id,
-    'name' => $request['name'],
-    'price' => $request['amount'],
-    'summary' => $request['amount']
-]);
-$documents = $request['documents'];
-    foreach ($documents as $key => $doc) 
-    {
-        if ($doc->hasFile('documents')){
-         $file = $request->file('documents');
-         $extension = $file->getClientOriginalExtension(); // you can also use file name
-         $fileName = time().'.'.$extension;
-         $path = public_path().'/order-documents';
-         $uplaod = $file->move($path,$fileName);
-         $data['document'] = $fileName;
-
-        DB::table('order_documents')->insert([
-        'order_id' => $getId->id;,
-        'document' => $data['document']
-        ]);
-       }
-    }
-dd('Payment was successfull. The payment success page goes here!');
-
+ dd('Your payment was successfully. You can create success page here.');
 }
 
- 
-
-dd('Error occured!');
-
+ dd('Something is wrong.');
 }
-
 }
-
-

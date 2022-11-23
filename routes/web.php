@@ -46,13 +46,30 @@ Route::group(['namespace' => 'App\Http\Controllers'], function()
     });
 });
 Route::get('/admin/dashboard', [App\Http\Controllers\Admin\AdminController::class, 'index']);
-Route::get('/home', [App\Http\Controllers\HomeController::class, 'Home'])->name('home');
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'Index'])->name('home');
 Route::get('/services', [App\Http\Controllers\HomeController::class, 'Service'])->name('service');
 Route::get('/company', [App\Http\Controllers\HomeController::class, 'Company'])->name('company');
 Route::get('/about', [App\Http\Controllers\HomeController::class, 'AboutUs'])->name('about');
 Route::post('/order', [App\Http\Controllers\OrderController::class, 'Create'])->name('order.perform');
+Route::get('/order', [App\Http\Controllers\HomeController::class, 'Order'])->name('order');
 
-Route::post('handle-payment', [App\Http\Controllers\PayPalPaymentController::class, 'handlePayment'])->name('make.payment');
-Route::post('cancel-payment', [App\Http\Controllers\PayPalPaymentController::class, 'paymentCancel'])->name('cancel.payment');
-Route::post('payment-success', [App\Http\Controllers\PayPalPaymentController::class, 'paymentSuccess'])->name('success.payment');
+Route::post('handle-payment', [App\Http\Controllers\PaypalPaymentController::class, 'payment'])->name('make.payment');
+Route::get('cancel-payment', [App\Http\Controllers\PaypalPaymentController::class, 'cancel'])->name('payment.cancel');
+Route::get('payment-success', [App\Http\Controllers\PaypalPaymentController::class, 'success'])->name('payment.success');
 
+
+
+//admin
+ Route::group(['prefix' => 'admin', 'namespace' => 'Admin'], function () {
+    Route::get('/login', [App\Http\Controllers\Admin\AdminAuthController::class, 'getLogin'])->name('adminLogin');
+    Route::post('/login', [App\Http\Controllers\Admin\AdminAuthController::class, 'postLogin'])->name('adminLoginPost');
+
+    Route::group(['middleware' => 'adminauth'], function () {
+        Route::get('/dashboard', function () {
+            return view('admin.index');
+        })->name('adminDashboard');
+    Route::get('/logout', [App\Http\Controllers\Admin\AdminAuthController::class, 'Logout'])->name('logout');
+    Route::get('/order', [App\Http\Controllers\Admin\OrderController::class, 'Index'])->name('order.index');
+
+    });
+});

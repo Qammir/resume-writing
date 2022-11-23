@@ -4,7 +4,10 @@
     <meta charset="utf-8">
     <meta name="keywords" content="">
     <meta name="description" content="">
-    <title>Page 1</title>
+    <title>TOPSLACKRESUME | Checkout</title>
+    <link rel = "icon" href = 
+"{{ asset('new/images/2280294.png') }}"
+        type = "image/x-icon">
     <link rel="stylesheet" type="text/css" href="css/checkout.css" />
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" />
   <link rel="stylesheet" type="application/javascript" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js" />
@@ -212,19 +215,21 @@
                     </div>
 
                     <hr class="mt-0 line">
-
                     <div class="p-3 d-flex justify-content-between">
-
-                      <div class="d-flex flex-column">
-                        
-                        <span>upload files(old resume,profile image if you want to include) etc.</span>
-                        <input type="file" name="documents[]" class="form-control">
-                        
+                      <div class="d-flex flex-column">                        
+                        <span>Email</span>
+                        <input type="email" name="email" class="form-control" required> 
                       </div>
-                      
-
-                      
-
+                      <div class="d-flex flex-column">                        
+                        <span>Password</span>
+                        <input type="password" name="password" class="form-control" required> 
+                      </div>
+                    </div>
+                    <div class="p-3 d-flex justify-content-between">
+                      <div class="d-flex flex-column">                        
+                        <span>upload files(old resume,profile image if you want to include) etc.</span>
+                        <input type="file" name="documents[]" class="form-control"> 
+                      </div>
                     </div>
                     <div class="p-3 d-flex justify-content-between">
 

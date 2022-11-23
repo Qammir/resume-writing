@@ -26,4 +26,8 @@ class HomeController extends Controller
     {
         return view('company');
     }
+    public function Order()
+    {
+        return view('order');
+    }
 }
