@@ -77,107 +77,8 @@
             
 
             <div class="row g-3">
-
-              <div class="col-md-6">  
-                
-                <span>Payment Method</span>
-                <div class="card">
-
-                  <div class="accordion" id="accordionExample">
-                    
-                    <div class="card">
-                      <div class="card-header p-0" id="headingTwo">
-                        <h2 class="mb-0">
-                          <button class="btn btn-light btn-block text-left collapsed p-3 rounded-0 border-bottom-custom" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                            <div class="d-flex align-items-center justify-content-between">
-
-                              <span>Paypal</span>
-                              <img src="{{ asset('front/paypal.png') }}"  width="30"/>
-                              
-                            </div>
-                          </button>
-                        </h2>
-                      </div>
-                      <div id="collapseTwo" class="collapse show" aria-labelledby="headingTwo" data-parent="#accordionExample">
-                        <div class="card-body">
-                          <input type="text" class="form-control" placeholder="Paypal email">
-                        </div>
-                      </div>
-                    </div>
-
-                    <div class="card">
-                      <div class="card-header p-0">
-                        <h2 class="mb-0">
-                          <button class="btn btn-light btn-block text-left p-3 rounded-0" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                            <div class="d-flex align-items-center justify-content-between">
-
-                              <span>Credit card</span>
-                              <div class="icons">
-                                <img src="{{ asset('front/card1.png') }}"  width="30"/>
-                                <img src="{{ asset('front/card2.png') }}"  width="30"/>
-                                <img src="{{ asset('front/card3.png') }}"  width="30"/>
-                                <img src="{{ asset('front/card4.png') }}"  width="30"/>
-                              </div>
-                              
-                            </div>
-                          </button>
-                        </h2>
-                      </div>
-
-                      <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
-                        <div class="card-body payment-card-body">
-                          
-                          <span class="font-weight-normal card-text">Card Number</span>
-                          <div class="input">
-
-                            <i class="fa fa-credit-card"></i>
-                            <input type="text" class="form-control" placeholder="0000 0000 0000 0000">
-                            
-                          </div> 
-
-                          <div class="row mt-3 mb-3">
-
-                            <div class="col-md-6">
-
-                              <span class="font-weight-normal card-text">Expiry Date</span>
-                              <div class="input">
-
-                                <i class="fa fa-calendar"></i>
-                                <input type="text" class="form-control" placeholder="MM/YY">
-                                
-                              </div> 
-                              
-                            </div>
-
-
-                            <div class="col-md-6">
-
-                              <span class="font-weight-normal card-text">CVC/CVV</span>
-                              <div class="input">
-
-                                <i class="fa fa-lock"></i>
-                                <input type="text" class="form-control" placeholder="000">
-                                
-                              </div> 
-                              
-                            </div>
-                            
-
-                          </div>
-
-                          <span class="text-muted certificate-text"><i class="fa fa-lock"></i> Your transaction is secured with ssl certificate</span>
-                         
-                        </div>
-                      </div>
-                    </div>
-                    
-                  </div>
-                  
-                </div>
-
-              </div>
               <div class="col-md-6">
-              <form method="post" action="{{ route('make.payment') }}">
+              <form method="post" action="{{ route('make.payment') }}" enctype="multipart/form-data">
                     <input type="hidden" name="_token" value="{{ csrf_token() }}" />
                   <span>Summary</span>
 
@@ -194,8 +95,9 @@
 
                       <div class="mt-1">
                         <input type="hidden" name="amount" value="{{$user['price']}}">
-                        <sup class="super-price" style="font-size: 127% !important;
-    top: 0.5em;"><b>{{$user['price']}}$</b></sup>
+                        <sup class="super-price" style="font-size: 127% !important;top: 0.5em;">
+                          <b>{{$user['price']}}$</b>
+                        </sup>
                       </div>
                       
                     </div>
@@ -207,7 +109,7 @@
                       <div class="d-flex justify-content-between mb-2">
                         <input type="hidden" name="plan" value="{{$user['plan']}}">
                         <span>Selected plan</span>
-                        <span><b>{{$user['plan']}}</b></span>
+                        <span><b>{{strtoupper($user['plan'])}}</b></span>
                         
                       </div>
                       
@@ -220,10 +122,6 @@
                         <span>Email</span>
                         <input type="email" name="email" class="form-control" required> 
                       </div>
-                      <div class="d-flex flex-column">                        
-                        <span>Password</span>
-                        <input type="password" name="password" class="form-control" required> 
-                      </div>
                     </div>
                     <div class="p-3 d-flex justify-content-between">
                       <div class="d-flex flex-column">                        
@@ -232,24 +130,24 @@
                       </div>
                     </div>
                     <div class="p-3 d-flex justify-content-between">
-
                       <div class="d-flex flex-column">
-
                         <span>Details</span>
                         <textarea name="summary" cols="100" rows="4" style="width: 100%;" class="form-control"></textarea>
-                        
-                        
                       </div>
-                      
+                    </div>
 
-                      
-
+                    <hr class="mt-0 line">
+                    <div class="p-3 d-flex justify-content-between">
+                      <div class="d-flex flex-column">                        
+                        <span>Paypal Email</span>
+                        <input type="email" name="paypal_email" class="form-control" required> 
+                      </div>
                     </div>
 
 
                     <div class="p-3">
 
-                    <button class="btn btn-primary btn-block free-button">Pay Now</button> 
+                    <button class="btn btn-primary btn-block free-button"><i class="fa fa-paypal" style="margin-right: 10px"></i>Pay Now</button> 
                    <div class="text-center">
                      <!-- <a href="#">Have a promo code?</a> -->
                    </div>

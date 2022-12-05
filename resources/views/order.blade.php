@@ -26,7 +26,8 @@
     <meta property="og:title" content="order">
     <meta property="og:type" content="website">
   </head>
-  <body class="u-body u-xl-mode" data-lang="en"><header class="u-align-left u-clearfix u-custom-color-1 u-header u-header" id="sec-8ac9"><div class="u-clearfix u-sheet u-valign-middle-sm u-sheet-1">
+  <body class="u-body u-xl-mode" data-lang="en">
+    <header class="u-align-left u-clearfix u-custom-color-1 u-header u-header" id="sec-8ac9"><div class="u-clearfix u-sheet u-valign-middle-sm u-sheet-1">
         <nav class="u-menu u-menu-one-level u-offcanvas u-menu-1">
           <div class="menu-collapse u-custom-font u-font-montserrat" style="font-size: 1.125rem; letter-spacing: 4px; text-transform: uppercase; font-weight: 700;">
             <a class="u-button-style u-custom-active-color u-custom-border u-custom-border-color u-custom-hover-color u-custom-left-right-menu-spacing u-custom-text-active-color u-custom-text-color u-custom-text-hover-color u-custom-top-bottom-menu-spacing u-nav-link" href="#" style="padding: 4px 0px; font-size: calc(1em + 8px);">
@@ -59,7 +60,8 @@
        <span class="u-file-icon u-icon u-text-white u-icon-1">
           <a href="{{ route('home.index') }}"><img src="{{ asset('new/images/2280294-620fb5a1.png') }}" alt=""></a></span>
         <h4 class="u-text u-text-default u-text-1"><a href="{{ route('home.index') }}">TOPSLACKRESUME</a></h4>
-      </div></header>
+      </div>
+    </header>
     <section class="u-clearfix u-image u-section-1" id="sec-2d79" data-image-width="5184" data-image-height="2920">
       <div class="u-clearfix u-sheet u-valign-middle-lg u-valign-middle-md u-valign-middle-xl u-sheet-1">
         <h5 class="u-text u-text-default u-text-white u-text-1">Order now to get fully ATS job winning resume </h5>
